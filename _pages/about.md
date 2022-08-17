@@ -24,7 +24,3 @@ News
 ======
 - 
 
-
-For more info
-======
-More info about me can be found in [Contact](/contact).

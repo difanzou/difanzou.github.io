@@ -6,15 +6,27 @@ author_profile: true
 ---
 
 \* indicates equal contribution.
+
 ## Preprint
-- Extreme Zero-Shot Learning for Extreme Text Classification  
-**Yuanhao Xiong**, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu, Inderjit S Dhillon  
-Under Review \[[Paper](
-https://arxiv.org/pdf/2112.08652.pdf)\]\[[Code](https://github.com/amzn/pecos/tree/mainline/examples/MACLR)\]
-- How much progress have we made in neural network training? A New Evaluation Protocol for Benchmarking Optimizers  
-**Yuanhao Xiong**, Xuanqing Liu, Li-Cheng Lan, Yang You, Si Si, Cho-Jui Hsieh  
-Under Review \[[Paper](
-https://arxiv.org/pdf/2010.09889.pdf)\]
+- Saving Gradient and Negative Curvature Computations: Finding Local Minima More Efficiently 
+Yaodong Yu\*, **Difan Zou\***, Quanquan Gu
+\[[Paper](
+https://arxiv.org/pdf/1712.03950.pdf)\]
+
+- Epidemic Model Guided Machine Learning for COVID-19 Forecasts in the United States
+**Difan Zou**, Lingxiao Wang, Pan Xu, Jinghui Chen, Weitong Zhang, and Quanquan Gu
+\[[Paper](
+https://www.medrxiv.org/content/10.1101/2020.05.24.20111989v1)\]
+
+- Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization
+**Difan Zou**, Yuan Cao, Yuanzhi Li, and Quanquan Gu
+\[[Paper](https://arxiv.org/pdf/2108.11371.pdf)\]
+
+- Risk Bounds of Multi-Pass SGD for Least Squares in the Interpolation Regime
+**Difan Zou\***, Jingfeng Wu\*,  Vladimir Braverman, Quanquan Gu, and Sham M. Kakade
+\[[Paper](https://arxiv.org/pdf/2203.03159.pdf)\]
+
+
 
 ## 2022
 - Learning to Schedule Learning rate with Graph Neural Networks  
