@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuanhao Xiong"
+title                    : "Difan Zou"
 title_separator          : "-"
-name                     : &name "Yuanhao Xiong"
-description              : &description "personal description"
+name                     : &name "Difan Zou"
+description              : &description "Difan Zou's website"
 url                      : "https://xyh97.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xyh97/xyh97.github.io"
+repository               : "difanzou/difanzou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : #&twitter
 facebook:
-  username               : "xiongyh"
+  username               : "knowzou"
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuanhao Xiong"
-  avatar           : "avatar.jpg"
-  bio              : "Ph.D. student at UCLA"
-  location         : "Los Angeles"
+  name             : "Difan Zou"
+  avatar           : "profile.jpg"
+  bio              : "Assistant Professor, Department of Computer Science, HKU"
+  location         : "Hong Kong"
   employer         :
   googlescholar    : 
   email            :
@@ -92,9 +92,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "xiongyh"
+  facebook         : "knowzou"
   foursquare       :
-  github           : "xyh97"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :

@@ -10,16 +10,19 @@ redirect_from:
 
 About me
 ======
-I am currently a Ph.D. candidate at University of California, Los Angeles, advised by [Prof. Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/). My research interests fall in developing **machine learning algorithms** in various related fields including adversarial learning, learning to learn, optimization and self-supervised learning. Here is my latest [Curriculum Vitae](/files/CV_Yuanhao.pdf). 
+I am an assistant professor in the [Department of Computer Science](https://www.cs.hku.hk/) 
+at [The University of Hong Kong](https://www.hku.hk/) and [The HKU Musketeers Foundation Institute of Data Science](https://datascience.hku.hk/). I am generally interested in machine learning, stochastic optimization, and graph learning, with a special focus on the theoretical/empirical understanding of the deep learning algorithms. I am also open to any challenging research topic in artifical intelligence and data science.
 
-I finished my bachelor of engineering at Zhejiang University. I previously worked as a research intern of the City Brain Research advised by [Prof. Zhenhui Jessie Li](https://faculty.ist.psu.edu/jessieli) in 2019. Before that, I was a research intern at DiDi AI Labs in Beijing and my mentor was [Prof. Yan Liu](http://www-bcf.usc.edu/~liu32/). I was also a research assistant of [Prof. Guanding Yu's](https://person.zju.edu.cn/en/yuguanding) group in 2017.
+Previously, I obtained my Ph.D. in the Computer Science department at the University of California, Los Angeles (UCLA), supervised by [Prof. Quanquan Gu](http://web.cs.ucla.edu/~qgu/).  I obtained by master degree in electrical engineering and bachlor degree in applied physics, both in Unversity of Science and Technology of China (USTC). 
+
+
+<span style="color:red">Multiple openings for PhD, Postdoc, Interns, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group. Research collabrations are also welcomed!  </span>
+News
+
 
 News
 ======
-- [01/2022] A paper was accepted by ICLR 2022.
-- [06/2020] A paper was accepted by ECCV 2020.
-- [12/2019] A paper was accepted by ICLR 2020.
-- [09/2019] I joined UCLA as a Ph.D. student, under the supervision of Prof. Cho-Jui Hsieh.
+- 
 
 
 For more info
