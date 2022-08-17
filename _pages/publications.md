@@ -187,8 +187,8 @@ IEEE Photonics Journal, 2016\
 \[[Paper](https://ieeexplore.ieee.org/document/7563344)\]
 
 * Modeling of optical wireless scattering communication channels over broad spectra\
-OSA Journal of the Optical Society of America A, 2015\
 Weihao Liu, **Difan Zou**, Zhengyuan Xu\
+OSA Journal of the Optical Society of America A, 2015\
 \[[Paper](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-32-3-486)\]
 
 
