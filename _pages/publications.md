@@ -138,3 +138,65 @@ https://www.medrxiv.org/content/10.1101/2020.05.24.20111989v1)\]
 **Difan Zou\***, Jingfeng Wu\*,  Vladimir Braverman, Quanquan Gu, and Sham M. Kakade\
 \[[ArXiv](https://arxiv.org/pdf/2203.03159.pdf)\]
 
+## Publications in Wireless Communication \& Signal Processing
+
+* Two-Dimensional Intensity Distribution and Adaptive Power Allocation for Ultraviolet Ad-Hoc Network\
+Hong Qi, **Difan Zou**, Zhengyuan Xu, Chen Gong\
+IEEE Transactions on Green Communications and Networking, 2022\
+\[[Paper](https://ieeexplore.ieee.org/document/9504598)\]
+
+
+* Signal characterization and achievable transmission rate of VLC under receiver nonlinearity\
+Xiaona Liu, Chen Gong, **Difan Zou**, Zunaira Babar, Zhengyuan Xu, Lajos Hanzo\
+IEEE Access, 2019\
+\[[Paper](https://ieeexplore.ieee.org/document/8850001)\]
+
+* Characterization on practical photon counting receiver in optical scattering communication\
+**Difan Zou**, Chen Gong, Zhengyuan Xu\
+IEEE Transactions on Communications, 2018 (Presented at GlobeCom 2018, Received Best Paper Award)\
+\[[Paper](https://ieeexplore.ieee.org/document/8552373)\]
+
+* A 1Mbps Real-Time NLOS UV Scattering Communication System With Receiver Diversity Over 1km\
+Guanchu Wang, Kun Wang, Chen Gong, **Difan Zou**, Zhimeng Jiang, Zhengyuan Xu \
+IEEE Photonics Journal, 2018\
+\[[Paper](https://ieeexplore.ieee.org/document/8332484)\]
+
+* Signal Detection Under Short-Interval Sampling of Continuous Waveforms for Optical Wireless Scattering Communication\
+**Difan Zou**, Chen Gong, Zhengyuan Xu\
+IEEE Transactions on Wireless Communication, 2018 (Presented at GlobeSip 2016)\
+\[[Paper](https://ieeexplore.ieee.org/document/8314559)\]
+
+* Secrecy rate of MISO optical wireless scattering communications\
+**Difan Zou**, Chen Gong, Zhengyuan Xu\
+IEEE Transactions on Communication, 2017\
+\[[Paper](https://ieeexplore.ieee.org/abstract/document/7968296)\]
+
+* Turbulence channel modeling and non-parametric estimation for optical wireless scattering communication\
+Kun Wang, Chen Gong, **Difan Zou**, Zhengyuan Xu\
+IEEE/OSA Journal of Lightwave Technology, 2017 (Presented at ICCS 2016, Received Best Paper Award)\
+\[[Paper](https://ieeexplore.ieee.org/document/7912406)\]
+
+* Demonstration of a 400 kbps real-time non-line-of-sight laser-based ultraviolet communication system over 500 m\
+Kun Wang, Chen Gong, **Difan Zou**, Xianqing Jin, Zhengyuan Xu\
+OSA Chinese Optical Letters, 2017\
+\[[Paper](https://opg.optica.org/col/abstract.cfm?uri=col-15-4-040602)\]
+
+* Information security risks outside the laser beam in terrestrial free-space optical communication\
+**Difan Zou**, Zhengyuan Xu\
+IEEE Photonics Journal, 2016\
+\[[Paper](https://ieeexplore.ieee.org/document/7563344)\]
+
+* Modeling of optical wireless scattering communication channels over broad spectra\
+OSA Journal of the Optical Society of America A, 2015\
+Weihao Liu, **Difan Zou**, Zhengyuan Xu\
+\[[Paper](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-32-3-486)\]
+
+
+
+
+
+
+
+
+
+
