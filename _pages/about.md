@@ -17,7 +17,7 @@ Previously, I obtained my Ph.D. in the Computer Science department at the Univer
 
 
 <span style="color:red">Multiple openings for PhD, Postdoc, Interns, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group. Research collabrations are also welcomed!  </span>
-News
+
 
 
 News

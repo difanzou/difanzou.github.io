@@ -7,6 +7,5 @@ author_profile: true
 
 {% include base_path %}
 
-- **Email**: yhxiong [AT] cs [DOT] ucla [DOT] edu
-- **Address**: EVI 295, 404 Westwood Plaza, Los Angeles, CA, 90095
-- **Others**: You can also find me at [Facebook](https://www.facebook.com/xiongyh) and [Github](https://github.com/xyh97).
+- **Email**: Difan [AT] cs [DOT] hku [DOT] hk
+- **Address**: CB 204F, Chow Yei Ching building, The University of Hong Kong, Hong Kong
