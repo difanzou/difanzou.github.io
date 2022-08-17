@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : #&twitter
+  username               : "difanzou"
 facebook:
   username               : "difanzou"
   app_id                 :
@@ -85,8 +85,8 @@ author:
   bio              : "Assistant Professor, Department of Computer Science, HKU"
   location         : "Hong Kong"
   employer         :
-  googlescholar    : 
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=Cp4fcTQAAAAJ&hl=en"
+  email            : "dzou@cs.hku.hk"
   uri              :
   bitbucket        :
   codepen          :
@@ -106,7 +106,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "difanzou"
   vine             :
   weibo            :
   xing             :
