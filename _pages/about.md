@@ -15,6 +15,11 @@ at [The University of Hong Kong](https://www.hku.hk/) and [The HKU Musketeers Fo
 Previously, I obtained my Ph.D. in the Computer Science department at the University of California, Los Angeles (UCLA), supervised by [Prof. Quanquan Gu](http://web.cs.ucla.edu/~qgu/).  I obtained by master degree in electrical engineering and bachlor degree in applied physics, both in Unversity of Science and Technology of China (USTC). 
 
 
-<span style="color:red">Multiple openings for PhD, Postdoc, interns, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group. Research collabrations are also welcomed!  </span>
+News
+------
+
+* <span style="color:red">Multiple openings for PhD, Postdoc, interns, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group. </span>
+
+* \[2022-08\] Dr Difan Zou just joined HKU CS as an assistant professor.
 
 
