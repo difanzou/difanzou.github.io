@@ -20,6 +20,9 @@ News
 
 * <span style="color:red">Multiple openings for PhD, Postdoc, interns, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group. </span>
 
+* \[2022-09\] Two papers accepted by NeurIPS 2022.
+
+
 * \[2022-08\] Dr Difan Zou just joined HKU CS as an assistant professor.
 
 
