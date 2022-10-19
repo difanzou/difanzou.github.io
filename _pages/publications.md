@@ -9,6 +9,17 @@ author_profile: true
 
 ## Publications
 
+* Risk Bounds of Multi-Pass SGD for Least Squares in the Interpolation Regime\
+**Difan Zou\***, Jingfeng Wu\*,  Vladimir Braverman, Quanquan Gu, and Sham M. Kakade\
+Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2022\
+\[[ArXiv](https://arxiv.org/pdf/2203.03159.pdf)\]
+
+* The Power and Limitation of Pretraining-Finetuning for Linear Regression under Covariate Shift\
+Jingfeng Wu\*, **Difan Zou\***,   Vladimir Braverman, Quanquan Gu, and Sham M. Kakade\
+Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2022\
+\[[ArXiv](https://arxiv.org/pdf/2208.01857.pdf)\]
+
+
 * Last Iterate Risk Bounds of SGD with Decaying Stepsize for Overparameterized Linear Regression
 Jingfeng Wu\*, **Difan Zou\***,  Vladimir Braverman, Quanquan Gu, Sham M. Kakade\
 International Conference on Machine Learning (**ICML**), 2022 (Long Presentation)\
@@ -21,12 +32,12 @@ International Conference on Artificial Intelligence and Statistics (**AISTATS**)
 \[[Paper](https://proceedings.mlr.press/v151/frei22a/frei22a.pdf)\] \[[ArXiv](https://arxiv.org/pdf/2106.13805.pdf)\]
 
 * The Benefit of Implicit Regularization from SGD in Least Square Problems\
-**Difan Zou\***, **Jingfeng Wu\***,  Vladimir Braverman, Quanquan Gu, Dean P. Foster, Sham M. Kakade\
+**Difan Zou\***, Jingfeng Wu\*,  Vladimir Braverman, Quanquan Gu, Dean P. Foster, Sham M. Kakade\
 Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2021\
 \[[Paper](https://proceedings.neurips.cc/paper/2021/file/2b6bb5354a56ce256116b6b307a1ea10-Paper.pdf)\] \[[ArXiv](https://arxiv.org/pdf/2108.04552.pdf)\]
 
 * Benign Overfitting of Constant-Stepsize SGD for Linear Regression \
-**Difan Zou\***, **Jingfeng Wu\***,  Vladimir Braverman, Quanquan Gu, Sham M. Kakade\
+**Difan Zou\***, Jingfeng Wu\*,  Vladimir Braverman, Quanquan Gu, Sham M. Kakade\
 Annual Conference on Learning Theory (**COLT**), 2021\
 \[[Paper](https://proceedings.mlr.press/v134/zou21a/zou21a.pdf)\] \[[ArXiv](https://arxiv.org/pdf/2103.12692.pdf)\]
 
