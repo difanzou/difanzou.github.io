@@ -12,7 +12,7 @@ redirect_from:
 I am an assistant professor in the [Department of Computer Science](https://www.cs.hku.hk/) 
 at [The University of Hong Kong](https://www.hku.hk/) and [The HKU Musketeers Foundation Institute of Data Science](https://datascience.hku.hk/). I am generally interested in machine learning, stochastic optimization, and graph learning, with a special focus on the theoretical/empirical understanding of the deep learning algorithms. I am also open to any challenging research topic in artifical intelligence and data science.
 
-Previously, I obtained my Ph.D. in the Computer Science department at the University of California, Los Angeles (UCLA), supervised by [Prof. Quanquan Gu](http://web.cs.ucla.edu/~qgu/).  I obtained by master degree in electrical engineering and bachlor degree in applied physics, both in Unversity of Science and Technology of China (USTC). 
+Previously, I obtained my Ph.D. in the Computer Science department at the University of California, Los Angeles (UCLA), supervised by [Prof. Quanquan Gu](http://web.cs.ucla.edu/~qgu/).  I obtained my master degree in electrical engineering and bachlor degree in applied physics, both in Unversity of Science and Technology of China (USTC). 
 
 
 News
