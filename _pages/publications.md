@@ -20,7 +20,7 @@ Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2
 \[[ArXiv](https://arxiv.org/pdf/2208.01857.pdf)\]
 
 
-* Last Iterate Risk Bounds of SGD with Decaying Stepsize for Overparameterized Linear Regression
+* Last Iterate Risk Bounds of SGD with Decaying Stepsize for Overparameterized Linear Regression\
 Jingfeng Wu\*, **Difan Zou\***,  Vladimir Braverman, Quanquan Gu, Sham M. Kakade\
 International Conference on Machine Learning (**ICML**), 2022 (Long Presentation)\
 \[[Paper](https://proceedings.mlr.press/v162/wu22p/wu22p.pdf)\] \[[ArXiv](
