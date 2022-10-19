@@ -145,9 +145,6 @@ https://www.medrxiv.org/content/10.1101/2020.05.24.20111989v1)\]
 **Difan Zou**, Yuan Cao, Yuanzhi Li, and Quanquan Gu\
 \[[ArXiv](https://arxiv.org/pdf/2108.11371.pdf)\]
 
-* Risk Bounds of Multi-Pass SGD for Least Squares in the Interpolation Regime\
-**Difan Zou\***, Jingfeng Wu\*,  Vladimir Braverman, Quanquan Gu, and Sham M. Kakade\
-\[[ArXiv](https://arxiv.org/pdf/2203.03159.pdf)\]
 
 ## Publications in Wireless Communication \& Signal Processing
 
