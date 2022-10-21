@@ -146,7 +146,7 @@ https://www.medrxiv.org/content/10.1101/2020.05.24.20111989v1)\]
 \[[ArXiv](https://arxiv.org/pdf/2108.11371.pdf)\]
 
 
-## Publications in Wireless Communication \& Signal Processing
+## Publications in Wireless Communication & Signal Processing
 
 * Two-Dimensional Intensity Distribution and Adaptive Power Allocation for Ultraviolet Ad-Hoc Network\
 Hong Qi, **Difan Zou**, Zhengyuan Xu, Chen Gong\
