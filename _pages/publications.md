@@ -9,15 +9,20 @@ author_profile: true
 
 ## Publications
 
+* Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization\
+**Difan Zou**, Yuan Cao, Yuanzhi Li, and Quanquan Gu\
+International Conference on Learning Representations (**ICLR**), 2023\
+\[[ArXiv](https://arxiv.org/pdf/2108.11371.pdf)\]
+
 * Risk Bounds of Multi-Pass SGD for Least Squares in the Interpolation Regime\
 **Difan Zou\***, Jingfeng Wu\*,  Vladimir Braverman, Quanquan Gu, and Sham M. Kakade\
 Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2022\
-\[[ArXiv](https://arxiv.org/pdf/2203.03159.pdf)\]
+\[[Paper]https://openreview.net/pdf?id=f966GJIEF9\]\[[ArXiv](https://arxiv.org/pdf/2203.03159.pdf)\]
 
 * The Power and Limitation of Pretraining-Finetuning for Linear Regression under Covariate Shift\
 Jingfeng Wu\*, **Difan Zou\***,   Vladimir Braverman, Quanquan Gu, and Sham M. Kakade\
 Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2022\
-\[[ArXiv](https://arxiv.org/pdf/2208.01857.pdf)\]
+\[[Paper](https://openreview.net/pdf?id=3y80RPgHL7s)\]\[[ArXiv](https://arxiv.org/pdf/2208.01857.pdf)\]
 
 
 * Last Iterate Risk Bounds of SGD with Decaying Stepsize for Overparameterized Linear Regression\
@@ -80,7 +85,7 @@ International Conference on Learning Representations (**ICLR**), 2020\
 
 
 * Improving Adversarial Robustness Requires Revisiting Misclassified Examples\
-Yisen Wang\*, **Difan Zou\***, Jinfeng Yi, James Bailey, Xingjun Ma and Quanquan Gu
+Yisen Wang\*, **Difan Zou\***, Jinfeng Yi, James Bailey, Xingjun Ma and Quanquan Gu \
 International Conference on Learning Representations (**ICLR**), 2020\
 \[[Paper](https://openreview.net/pdf?id=rklOg6EFwS)\] \[[Code](https://github.com/YisenWang/MART)\]
 
@@ -141,9 +146,6 @@ https://arxiv.org/pdf/1712.03950.pdf)\]
 \[[MedRxiv](
 https://www.medrxiv.org/content/10.1101/2020.05.24.20111989v1)\]
 
-* Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization\
-**Difan Zou**, Yuan Cao, Yuanzhi Li, and Quanquan Gu\
-\[[ArXiv](https://arxiv.org/pdf/2108.11371.pdf)\]
 
 
 ## Publications in Wireless Communication & Signal Processing

@@ -20,6 +20,8 @@ News
 
 * <span style="color:red">Multiple openings for PhD, Postdoc, interns, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group. </span>
 
+* \[2022-09\] One papers accepted by ICLR 2023.
+
 * \[2022-09\] Two papers accepted by NeurIPS 2022.
 
 
