@@ -17,7 +17,7 @@ International Conference on Learning Representations (**ICLR**), 2023\
 * Risk Bounds of Multi-Pass SGD for Least Squares in the Interpolation Regime\
 **Difan Zou\***, Jingfeng Wu\*,  Vladimir Braverman, Quanquan Gu, and Sham M. Kakade\
 Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2022\
-\[[Paper]https://openreview.net/pdf?id=f966GJIEF9\]\[[ArXiv](https://arxiv.org/pdf/2203.03159.pdf)\]
+\[[Paper](https://openreview.net/pdf?id=f966GJIEF9)\]\[[ArXiv](https://arxiv.org/pdf/2203.03159.pdf)\]
 
 * The Power and Limitation of Pretraining-Finetuning for Linear Regression under Covariate Shift\
 Jingfeng Wu\*, **Difan Zou\***,   Vladimir Braverman, Quanquan Gu, and Sham M. Kakade\
