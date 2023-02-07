@@ -20,7 +20,6 @@ News
 
 * <span style="color:red">Multiple openings for PhD, Postdoc, interns, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group. </span>
 
-* <span style="color:red">Our department has launched summer intern program. Check [link](https://www.cs.hku.hk/rintern/) for more details and feel free drop me email if you are interested in my research. </span>
 
 * \[2023-01\] One paper accepted by ICLR 2023.
 
