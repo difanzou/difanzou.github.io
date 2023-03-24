@@ -18,12 +18,13 @@ Previously, I obtained my Ph.D. in the Computer Science department at the Univer
 News
 ------
 
-* <span style="color:red">Multiple openings for PhD, Postdoc, interns, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group. </span>
+* <span style="color:red"> Multiple openings for PhD, Postdoc, interns, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group.   </span>
 
+* \[2023-03\] I will serve as the Area Chair in NeurIPS 2023.
 
-* \[2023-01\] One paper accepted by ICLR 2023.
+* \[2023-01\] Our [paper](https://openreview.net/pdf?id=iUYpN14qjTF) on the generalization separation between Adam and GD has been accepted by ICLR 2023.
 
-* \[2022-09\] Two papers accepted by NeurIPS 2022.
+* \[2022-09\] Two papers accepted by NeurIPS 2022. The [first paper](https://openreview.net/pdf?id=f966GJIEF9) studies the generalization of multi-pass SGD for over-parameterized least squres; the [second paper](https://openreview.net/pdf?id=3y80RPgHL7s) demonstrates the power and limitation of pretraining-finetunning for linear regression with distribution shift.
 
 
 * \[2022-08\] Dr Difan Zou just joined HKU CS as an assistant professor.
