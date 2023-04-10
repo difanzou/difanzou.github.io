@@ -147,8 +147,24 @@ https://arxiv.org/pdf/1712.03950.pdf)\]
 https://www.medrxiv.org/content/10.1101/2020.05.24.20111989v1)\]
 
 
+* The Benefits of Mixup for Feature Learning\
+**Difan Zou**, Yuan Cao, Yuanzhi Li, Quanquan Gu\
+\[[Arxiv](https://arxiv.org/pdf/2303.08433.pdf)\]
+
+
+* Per-Example Gradient Regularization Improves Learning Signals from Noisy Data
+\
+Xuran Meng, Yuan Cao, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2303.17940.pdf)\]
+
 
 ## Publications in Wireless Communication & Signal Processing
+
+* An Efficient Iterative Least Square Method for Indoor Visible Light Positioning under Shot Noise\
+Xiaona Liu, **Difan Zou**, Nuo Huang, Yang Wang\
+IEEE Photonics Journal, 2023\
+\[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9984820)\]
+
 
 * Two-Dimensional Intensity Distribution and Adaptive Power Allocation for Ultraviolet Ad-Hoc Network\
 Hong Qi, **Difan Zou**, Zhengyuan Xu, Chen Gong\
