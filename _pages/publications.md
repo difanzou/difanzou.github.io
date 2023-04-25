@@ -27,7 +27,7 @@ International Conference on Machine Learning (**ICML**), 2023\
 * Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization\
 **Difan Zou**, Yuan Cao, Yuanzhi Li, and Quanquan Gu\
 International Conference on Learning Representations (**ICLR**), 2023\
-\[[ArXiv](https://arxiv.org/pdf/2108.11371.pdf)\]
+\[[Paper](https://openreview.net/pdf?id=iUYpN14qjTF)\]\[[ArXiv](https://arxiv.org/pdf/2108.11371.pdf)\]
 
 * Risk Bounds of Multi-Pass SGD for Least Squares in the Interpolation Regime\
 **Difan Zou\***, Jingfeng Wu\*,  Vladimir Braverman, Quanquan Gu, and Sham M. Kakade\
