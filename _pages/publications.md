@@ -22,7 +22,7 @@ International Conference on Machine Learning (**ICML**), 2023\
 
 * Towards Robust Graph Incremental Learning on Evolving Graphs\
 Junwei Su, **Difan Zou**, Zijun Zhang, Chuan Wu\
-International Conference on Machine Learning (**ICML**), 2023\
+International Conference on Machine Learning (**ICML**), 2023
 
 * Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization\
 **Difan Zou**, Yuan Cao, Yuanzhi Li, and Quanquan Gu\
