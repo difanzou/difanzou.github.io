@@ -9,6 +9,21 @@ author_profile: true
 
 ## Publications
 
+
+* The Benefits of Mixup for Feature Learning\
+**Difan Zou**, Yuan Cao, Yuanzhi Li, Quanquan Gu\
+International Conference on Machine Learning (**ICML**), 2023\
+\[[Arxiv](https://arxiv.org/pdf/2303.08433.pdf)\]
+
+* Learning High-Dimensional Single-Neuron ReLU Networks with Finite Samples\
+Jingfeng Wu\*, **Difan Zou\***, Zixiang Chen\*, Vladimir Braverman, Quanquan Gu, and Sham M. Kakade\
+International Conference on Machine Learning (**ICML**), 2023\
+\[[Arxiv](https://arxiv.org/pdf/2303.02255.pdf)\]
+
+* Towards Robust Graph Incremental Learning on Evolving Graphs\
+Junwei Su, **Difan Zou**, Zijun Zhang, Chuan Wu\
+International Conference on Machine Learning (**ICML**), 2023\
+
 * Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization\
 **Difan Zou**, Yuan Cao, Yuanzhi Li, and Quanquan Gu\
 International Conference on Learning Representations (**ICLR**), 2023\
@@ -146,10 +161,6 @@ https://arxiv.org/pdf/1712.03950.pdf)\]
 \[[MedRxiv](
 https://www.medrxiv.org/content/10.1101/2020.05.24.20111989v1)\]
 
-
-* The Benefits of Mixup for Feature Learning\
-**Difan Zou**, Yuan Cao, Yuanzhi Li, Quanquan Gu\
-\[[Arxiv](https://arxiv.org/pdf/2303.08433.pdf)\]
 
 
 * Per-Example Gradient Regularization Improves Learning Signals from Noisy Data

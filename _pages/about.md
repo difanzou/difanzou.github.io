@@ -21,7 +21,6 @@ News
 * <span style="color:red"> Multiple openings for PhD, Postdoc, interns, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group.   </span>
 
 
-
 * \[2023-03\] Two manuscripts on explaning the advantages of [Mixup](https://arxiv.org/pdf/2303.08433.pdf) and [Gradient Regularization](https://arxiv.org/pdf/2303.17940.pdf) in training neural networks are online. Any comments are welcomed!
 
 * \[2023-03\] I will serve as the Area Chair in NeurIPS 2023.
