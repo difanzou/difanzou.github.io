@@ -9,6 +9,10 @@ author_profile: true
 
 ## Publications
 
+* The Implicit Bias of Batch Normalization in Linear Models and
+Two-layer Linear Convolutional Neural Networks\
+Yuan Cao, Difan Zou, Yuanzhi Li, Quanquan Gu\
+Annual Conference on Learning Theory (**COLT**), 2023
 
 * The Benefits of Mixup for Feature Learning\
 **Difan Zou**, Yuan Cao, Yuanzhi Li, Quanquan Gu\
