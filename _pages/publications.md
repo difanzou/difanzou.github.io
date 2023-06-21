@@ -12,7 +12,7 @@ author_profile: true
 * The Implicit Bias of Batch Normalization in Linear Models and
 Two-layer Linear Convolutional Neural Networks\
 Yuan Cao, **Difan Zou**, Yuanzhi Li, Quanquan Gu\
-Annual Conference on Learning Theory (**COLT**), 2023
+Annual Conference on Learning Theory (**COLT**), 2023\
 \[[Arxiv](https://arxiv.org/pdf/2306.11680.pdf)\]
 
 * The Benefits of Mixup for Feature Learning\
@@ -27,7 +27,7 @@ International Conference on Machine Learning (**ICML**), 2023\
 
 * Towards Robust Graph Incremental Learning on Evolving Graphs\
 Junwei Su, **Difan Zou**, Zijun Zhang, Chuan Wu\
-International Conference on Machine Learning (**ICML**), 2023
+International Conference on Machine Learning (**ICML**), 2023\
 \[[Paper](https://openreview.net/pdf?id=DdQ8ewIgY9)\]
 
 * Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization\
