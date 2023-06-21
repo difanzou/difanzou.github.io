@@ -22,7 +22,7 @@ News
 
 * \[2023-06\] We are looking for  PostDocs in Mathematical Data Science. Candidates with a strong background in mathematics, proven publication record and interest in theoretical aspects of machine learning are encouraged to apply. Strong candidates can be referred to [HKU IDS PostDoc Research Fellowship](https://datascience.hku.hk/research/postdoctoral-fellowship/) (up to HKD 514800/year plus additional research funding support). Please find the details in the [advertisement](https://manchungyue.com/IDS_Postdoc_Ad.pdf). 
 
-* \[2023-05\] Our paper on the implicit bias of batch normalization is accepted to COLT 2023, manustripts will be released soon!
+* \[2023-05\] Our [paper](https://arxiv.org/pdf/2306.11680.pdf) on the implicit bias of batch normalization is accepted to COLT 2023, manustripts will be released soon!
 
 * \[2023-03\] Two manuscripts on explaning the advantages of [Mixup](https://arxiv.org/pdf/2303.08433.pdf) and [Gradient Regularization](https://arxiv.org/pdf/2303.17940.pdf) in training neural networks are online. Any comments are welcomed!
 
