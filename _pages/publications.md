@@ -18,12 +18,12 @@ Annual Conference on Learning Theory (**COLT**), 2023\
 * The Benefits of Mixup for Feature Learning\
 **Difan Zou**, Yuan Cao, Yuanzhi Li, Quanquan Gu\
 International Conference on Machine Learning (**ICML**), 2023\
-\[[Arxiv](https://arxiv.org/pdf/2303.08433.pdf)\]\[[Paper](https://openreview.net/pdf?id=hgc9pjjDOo)\]
+\[[Paper](https://openreview.net/pdf?id=hgc9pjjDOo)\]\[[Arxiv](https://arxiv.org/pdf/2303.08433.pdf)\]
 
 * Learning High-Dimensional Single-Neuron ReLU Networks with Finite Samples\
 Jingfeng Wu\*, **Difan Zou\***, Zixiang Chen\*, Vladimir Braverman, Quanquan Gu, and Sham M. Kakade\
 International Conference on Machine Learning (**ICML**), 2023\
-\[[Arxiv](https://arxiv.org/pdf/2303.02255.pdf)\]\[[Paper](https://openreview.net/pdf?id=yMs4kwihug)\]
+\[[Paper](https://openreview.net/pdf?id=yMs4kwihug)\]\[[Arxiv](https://arxiv.org/pdf/2303.02255.pdf)\]
 
 * Towards Robust Graph Incremental Learning on Evolving Graphs\
 Junwei Su, **Difan Zou**, Zijun Zhang, Chuan Wu\
