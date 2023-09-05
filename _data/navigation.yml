@@ -4,8 +4,8 @@ main:
   - title: "Home"
     url: /about/
     
- # - title: "Research"
- #   url: /research/
+ - title: "group"
+   url: /group/
     
   - title: "Publications"
     url: /publications/
@@ -13,8 +13,8 @@ main:
  # - title: "Talks"
  #   url: /talks/    
 
- # - title: "Teaching"
- #   url: /teaching/    
+ - title: "Teaching"
+   url: /teaching/    
     
  # - title: "Portfolio"
  #   url: /portfolio/
