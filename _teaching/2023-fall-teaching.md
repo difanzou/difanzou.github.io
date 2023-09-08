@@ -24,4 +24,31 @@ Deep learning has achieved great success in many real-world applications. Howeve
 
 * Slides: [lecture 1](https://drive.google.com/file/d/1Z3JX-ULSwMEtNRB5h08BKIGuTMo5vdK2/view?usp=sharing)
 
+# Paper Presentation:
+
+- During the first 2 weeks (**due by Sept. 17**), each student need to find 2 papers related to the foundation of deep learning, and send them to the instructor (will have a google sheet.)
+- Before the 3rd week, the instructor will approve whether these papers are good for presenting.
+- From the 4th week, 1 or 2 student will need to present the paper during each class. The presentation will be around 20mins and students need to prepare the slides.
+
+[Link](https://docs.google.com/spreadsheets/d/1x28YI76M9YFGUJz9t86_vosgge2W3yFWax2FzjdcBwg/edit?usp=sharing) for candidate papers.
+
+# Project:
+
+* Each team should be up to 2 students (3 students are allowed in extreme cases). Proposal submitted in mid-semester.
+
+The project can be:
+
+- Understanding of the phenomena in deep learning: can be either empirically or theoretically.
+- Analysis of deep learning algorithms: convergence, generalization, or implicit bias.
+- A solution to new deep learning problems: new training paradigm, new algorithms, new evaluations, new objectives.
+
+The project can also be (team up is not allowed):
+
+- Summary of a series of interesting papers:
+- You are required to summarize at least 3 papers working in the same topics.
+- These papers need to be related to the understanding or theory of deep learning, rather than deep learning for certain application.
+- These papers can include the paper you presented.
+- A clear logic and comparison between these papers need to be presented.
+
+
 
