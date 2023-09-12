@@ -11,6 +11,7 @@ Deep learning has achieved great success in many real-world applications. Howeve
 
 * Tuesday, 4 pm - 5 pm, CB204F (starting from next week)
 * Please also feel free to contact me via email: dzou@cs.hku.hk
+* Students who are not in moodle now, please sign in [here](https://docs.google.com/spreadsheets/d/1RuIH3ouuec79pqY82TyZzXA5Ww83JJXDRj8h7gIM2KM/edit?usp=sharing)
 
 
 # Grading
