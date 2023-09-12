@@ -23,7 +23,7 @@ Deep learning has achieved great success in many real-world applications. Howeve
 
 # Course Content
 
-* Slides: [lecture 1](https://drive.google.com/file/d/1Z3JX-ULSwMEtNRB5h08BKIGuTMo5vdK2/view?usp=sharing)
+* Slides: [Lecture 1](https://drive.google.com/file/d/1Z3JX-ULSwMEtNRB5h08BKIGuTMo5vdK2/view?usp=sharing), [Lecture 2](https://drive.google.com/file/d/1KquUvsSpr0uRECIEV0atQIbZx4q7GZI5/view?usp=drive_link)
 
 # Paper Presentation:
 
