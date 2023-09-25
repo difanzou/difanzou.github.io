@@ -33,6 +33,8 @@ Deep learning has achieved great success in many real-world applications. Howeve
 
 [Link](https://docs.google.com/spreadsheets/d/1x28YI76M9YFGUJz9t86_vosgge2W3yFWax2FzjdcBwg/edit?usp=sharing) for candidate papers.
 
+[Link](https://docs.google.com/spreadsheets/d/1Vy2BV6UwIZDsG0olsjJtio19ZKyQR5QuIakHJXV6j24/edit?usp=sharing) for sigining in the presentation.
+
 # Project:
 
 * Each team should be up to 2 students (3 students are allowed in extreme cases). Proposal submitted in mid-semester.
