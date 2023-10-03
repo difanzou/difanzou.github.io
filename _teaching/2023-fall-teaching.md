@@ -23,7 +23,7 @@ Deep learning has achieved great success in many real-world applications. Howeve
 
 # Course Content
 
-* Slides: [Lecture 1](https://drive.google.com/file/d/1Z3JX-ULSwMEtNRB5h08BKIGuTMo5vdK2/view?usp=sharing), [Lecture 2](https://drive.google.com/file/d/1KquUvsSpr0uRECIEV0atQIbZx4q7GZI5/view?usp=sharing), [Lecture 3](https://drive.google.com/file/d/18BgwcC43VIT0rEk_8vrcIX7_BniVXOJS/view?usp=sharing), [Lecture 4](https://drive.google.com/file/d/1fYmVasCykf2BXtzIAGBbEEe_Km130937/view?usp=sharing) [Lecture 5](https://drive.google.com/file/d/1tFJ6ogbm8_0nsixqx0S9YQRKz83_lrAK/view?usp=sharing)
+* Slides: [Lecture 1](https://drive.google.com/file/d/1Z3JX-ULSwMEtNRB5h08BKIGuTMo5vdK2/view?usp=sharing), [Lecture 2](https://drive.google.com/file/d/1KquUvsSpr0uRECIEV0atQIbZx4q7GZI5/view?usp=sharing), [Lecture 3](https://drive.google.com/file/d/18BgwcC43VIT0rEk_8vrcIX7_BniVXOJS/view?usp=sharing), [Lecture 4](https://drive.google.com/file/d/1fYmVasCykf2BXtzIAGBbEEe_Km130937/view?usp=sharing), [Lecture 5](https://drive.google.com/file/d/1kolCqbUUMK8Thr0TIFM8w69__oxF31YG/view?usp=sharing)
 
 # Paper Presentation:
 
