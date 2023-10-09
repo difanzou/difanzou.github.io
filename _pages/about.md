@@ -20,7 +20,7 @@ News
 
 * <span style="color:red"> Multiple openings for PhD, Postdoc, interns, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group.   </span>
 
-* \[2023-10\] A new manuscripts on [Learning XOR data via ReLU networks](https://arxiv.org/pdf/2310.01975.pdf) is online, where we provide a precise analysis on the generalization performance of ReLU CNN trained by GD on (non-orthogonal) XOR-type data. Any comments are welcomed! 
+* \[2023-10\] A new manuscript on [Learning XOR data via ReLU networks](https://arxiv.org/pdf/2310.01975.pdf) is online, where we provide a precise analysis on the generalization performance of ReLU CNN trained by GD on (non-orthogonal) XOR-type data. Any comments are welcomed! 
 
 * \[2023-06\] We are looking for  PostDocs in Mathematical Data Science. Candidates with a strong background in mathematics, proven publication record and interest in theoretical aspects of machine learning are encouraged to apply. Strong candidates can be referred to [HKU IDS PostDoc Research Fellowship](https://datascience.hku.hk/research/postdoctoral-fellowship/) (up to HKD 514800/year plus additional research funding support). Please find the details in the [advertisement](https://manchungyue.com/IDS_Postdoc_Ad.pdf). 
 
