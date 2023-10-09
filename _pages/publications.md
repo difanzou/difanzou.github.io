@@ -157,10 +157,21 @@ International Conference on Machine Learning (**ICML**), 2018\
 
 ## Preprint
 
-* Saving Gradient and Negative Curvature Computations: Finding Local Minima More Efficiently\
-Yaodong Yu\*, **Difan Zou\***, Quanquan Gu\
-\[[ArXiv](
-https://arxiv.org/pdf/1712.03950.pdf)\]
+* Less is More: On the Feature Redundancy of Pertrained Models When Transferring to Few-Shot Tasks\
+Xu Luo, **Difan Zou**, Lianli Gao, Zenglin Xu, Jingkuan Song\
+\[[Arxiv](https://arxiv.org/pdf/2310.03843.pdf)\]
+
+* Benign Overfitting in Two-Layer ReLU Convolutional Neural Networks for XOR Data\
+Xuran Meng, **Difan Zou**, Yuan Cao\
+\[[Arxiv](https://arxiv.org/pdf/2310.01975.pdf)\]
+
+
+* Per-Example Gradient Regularization Improves Learning Signals from Noisy Data
+\
+Xuran Meng, Yuan Cao, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2303.17940.pdf)\]
+
+
 
 * Epidemic Model Guided Machine Learning for COVID-19 Forecasts in the United States\
 **Difan Zou**, Lingxiao Wang, Pan Xu, Jinghui Chen, Weitong Zhang, and Quanquan Gu\
@@ -168,11 +179,11 @@ https://arxiv.org/pdf/1712.03950.pdf)\]
 https://www.medrxiv.org/content/10.1101/2020.05.24.20111989v1)\]
 
 
+* Saving Gradient and Negative Curvature Computations: Finding Local Minima More Efficiently\
+Yaodong Yu\*, **Difan Zou\***, Quanquan Gu\
+\[[ArXiv](
+https://arxiv.org/pdf/1712.03950.pdf)\]
 
-* Per-Example Gradient Regularization Improves Learning Signals from Noisy Data
-\
-Xuran Meng, Yuan Cao, **Difan Zou**\
-\[[Arxiv](https://arxiv.org/pdf/2303.17940.pdf)\]
 
 
 ## Publications in Wireless Communication & Signal Processing
