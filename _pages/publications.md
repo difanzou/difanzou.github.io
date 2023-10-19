@@ -157,6 +157,10 @@ International Conference on Machine Learning (**ICML**), 2018\
 
 ## Preprint
 
+* How Many Pretraining Tasks Are Needed for In-Context Learning of Linear Regression?\
+Jingfeng Wu, **Difan Zou**, Zixiang Chen, Vladimir Braverman, Quanquan Gu, Peter L. Bartlett\
+\[[Arxiv](https://arxiv.org/pdf/2310.08391.pdf)\]
+
 * Less is More: On the Feature Redundancy of Pertrained Models When Transferring to Few-Shot Tasks\
 Xu Luo, **Difan Zou**, Lianli Gao, Zenglin Xu, Jingkuan Song\
 \[[Arxiv](https://arxiv.org/pdf/2310.03843.pdf)\]
