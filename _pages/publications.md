@@ -159,7 +159,7 @@ International Conference on Machine Learning (**ICML**), 2018\
 
 * Benign Oscillation of Stochastic Gradient Descent with Large Learning Rates\
 Miao Lu, Beining Wu, Xiaodong Yang, Difan Zou\
-\[[Arxiv][https://arxiv.org/pdf/2310.17074.pdf]\]
+\[[Arxiv](https://arxiv.org/pdf/2310.17074.pdf)\]
 
 
 * How Many Pretraining Tasks Are Needed for In-Context Learning of Linear Regression?\
