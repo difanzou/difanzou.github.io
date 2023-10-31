@@ -7,13 +7,15 @@ author_profile: true
 
 ## PhD students
 
-- Yujin Han\ 
-- Xingwu Chen
-- Junwei Su (co-advised with Prof. Chuan Wu)
+- Yujin Han (CS)
+- Xingwu Chen (CS)
+- Yi Zhang (IDS)
+- Junwei Su (CS, co-advised with Prof. Chuan Wu)
 
 ## Research Interns
-- Hanyu Wang\ 
-- Tunyu Zhang\ 
-- Miao Lu\ 
-- Beining Wu\ 
+- Hanyu Wang (USTC)
+- Tunyu Zhang (USTC)
+- Shuning Shang (Zhejiang University)
+- Miao Lu (USTC -> Stanford)
+- Beining Wu (USTC -> U of Chicago)
 
