@@ -39,6 +39,8 @@ Deep learning has achieved great success in many real-world applications. Howeve
 
 * Each team should be up to 2 students (3 students are allowed in extreme cases). Proposal submitted in mid-semester.
 
+[Link](https://docs.google.com/spreadsheets/d/1OC5AY-YSONETgtmQb7IOB240xXJdZkHIwMmbvdPXDxk/edit?usp=sharing) for signing in the final project presentation.
+
 The project can be:
 
 - Understanding of the phenomena in deep learning: can be either empirically or theoretically.
