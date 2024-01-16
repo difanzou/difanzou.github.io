@@ -157,8 +157,13 @@ International Conference on Machine Learning (**ICML**), 2018\
 
 ## Preprint
 
+* Faster Sampling without Isoperimetry via Diffusion-based Monte Carlo\
+Xunpeng Huang, **Difan Zou**, Hanze Dong, Yian Ma, and Tong Zhang\
+\[[Arxiv](https://arxiv.org/pdf/2401.06325.pdf)\]
+
+
 * Benign Oscillation of Stochastic Gradient Descent with Large Learning Rates\
-Miao Lu, Beining Wu, Xiaodong Yang, Difan Zou\
+Miao Lu, Beining Wu, Xiaodong Yang, **Difan Zou**\
 Accepted by [M3L workshop](https://sites.google.com/view/m3l-2023/home?authuser=0) in NeurIPS 2023\ 
 \[[Arxiv](https://arxiv.org/pdf/2310.17074.pdf)\]
 

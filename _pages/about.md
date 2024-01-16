@@ -21,6 +21,8 @@ News
 * <span style="color:red"> Multiple openings for PhD, Postdoc, interns, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group.   </span>
 
 
+* \[2024-01\] A new manuscript on [faster non-log-concave sampling](https://arxiv.org/pdf/2401.06325.pdf) is online, where we show that non-exponential convergence can be achieved for sampling non-log-concave distributions (or distribution without isoperimetry) via diffusion-based Monte Carlo. Any comments are welcomed!
+
 * \[2023-10\] A new manuscript on [the Oscillation Effect of SGD](https://arxiv.org/pdf/2310.17074.pdf) is online, where we theoretically investigate the benefit of the oscillation of SGD with large learning rate for genralization. Any comments are welcomed! 
 
 
