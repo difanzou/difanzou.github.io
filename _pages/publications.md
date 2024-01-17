@@ -9,6 +9,24 @@ author_profile: true
 
 ## Publications
 
+* Benign Oscillation of Stochastic Gradient Descent with Large Learning Rates\
+Miao Lu, Beining Wu, Xiaodong Yang, **Difan Zou**\
+NeurIPS Workshop on Mathematics of Modern Machine Learning (M3L), 2023\
+International Conference on Learning Representations (**ICLR**), 2024 \
+\[[Arxiv](https://arxiv.org/pdf/2310.17074.pdf)\]
+
+
+* How Many Pretraining Tasks Are Needed for In-Context Learning of Linear Regression?\
+Jingfeng Wu, **Difan Zou**, Zixiang Chen, Vladimir Braverman, Quanquan Gu, Peter L. Bartlett\
+International Conference on Learning Representations (**ICLR**), 2024 \
+\[[Arxiv](https://arxiv.org/pdf/2310.08391.pdf)\]
+
+* PRES: Toward Scalable Memory-Based Dynamic Graph Neural Networks\
+Junwei Su, **Difan Zou**, Chuan Wu\
+International Conference on Learning Representations (**ICLR**), 2024 \
+\[[Arxiv](https://difanzou.github.io/publications/)\]
+
+
 * The Implicit Bias of Batch Normalization in Linear Models and
 Two-layer Linear Convolutional Neural Networks\
 Yuan Cao, **Difan Zou**, Yuanzhi Li, Quanquan Gu\
@@ -162,15 +180,6 @@ Xunpeng Huang, **Difan Zou**, Hanze Dong, Yian Ma, and Tong Zhang\
 \[[Arxiv](https://arxiv.org/pdf/2401.06325.pdf)\]
 
 
-* Benign Oscillation of Stochastic Gradient Descent with Large Learning Rates\
-Miao Lu, Beining Wu, Xiaodong Yang, **Difan Zou**\
-Accepted by [M3L workshop](https://sites.google.com/view/m3l-2023/home?authuser=0) in NeurIPS 2023\
-\[[Arxiv](https://arxiv.org/pdf/2310.17074.pdf)\]
-
-
-* How Many Pretraining Tasks Are Needed for In-Context Learning of Linear Regression?\
-Jingfeng Wu, **Difan Zou**, Zixiang Chen, Vladimir Braverman, Quanquan Gu, Peter L. Bartlett\
-\[[Arxiv](https://arxiv.org/pdf/2310.08391.pdf)\]
 
 * Less is More: On the Feature Redundancy of Pertrained Models When Transferring to Few-Shot Tasks\
 Xu Luo, **Difan Zou**, Lianli Gao, Zenglin Xu, Jingkuan Song\
