@@ -20,6 +20,7 @@ News
 
 * <span style="color:red"> Multiple openings for PhD, Postdoc, interns, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group.   </span>
 
+* \[2024-01\] Three papers on [SGD with large learning rate](https://arxiv.org/pdf/2310.17074.pdf), [scalable training of dynamic GDD], and [finite sample in-context learning](https://arxiv.org/pdf/2310.08391.pdf) are accepted to ICLR 2024.
 
 * \[2024-01\] A new manuscript on [faster non-log-concave sampling](https://arxiv.org/pdf/2401.06325.pdf) is online, where we show that non-exponential convergence can be achieved for sampling non-log-concave distributions (or distribution without isoperimetry) via diffusion-based Monte Carlo. Any comments are welcomed!
 
