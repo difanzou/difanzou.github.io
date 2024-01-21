@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "DATA8003 Theoretical Foundation of Deep Learning, 2023"
-permalink: /teaching/2023-fall-teaching
+title: "CCST9047 The Age of Big Data"
+permalink: /teaching/2024-spring-teaching
 ---
 # Overview
 
