@@ -29,6 +29,8 @@ The course should combine lectures, discussions, and practical exercises, this c
 
 # Course Content
 
+* Slides: [Lecture 1](https://drive.google.com/file/d/1hP5tAuVmUKGRKSyd2c2UkYftfWs91Kgx/view?usp=sharing)
+
 
 
 
