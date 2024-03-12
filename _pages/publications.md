@@ -175,6 +175,11 @@ International Conference on Machine Learning (**ICML**), 2018\
 
 ## Preprint
 
+* An Improved Analysis of Langevin Algorithms with Prior Diffusion for Non-Log-Concave Sampling\
+Xunpeng Huang, Hanze Dong, **Difan Zou**,  and Tong Zhang\
+\[[Arxiv](https://arxiv.org/pdf/2403.06183.pdf)\]
+
+
 * Faster Sampling without Isoperimetry via Diffusion-based Monte Carlo\
 Xunpeng Huang, **Difan Zou**, Hanze Dong, Yian Ma, and Tong Zhang\
 \[[Arxiv](https://arxiv.org/pdf/2401.06325.pdf)\]
