@@ -175,6 +175,17 @@ International Conference on Machine Learning (**ICML**), 2018\
 
 ## Preprint
 
+
+* On the Benefits of Over-parameterization for Out-of-Distribution Generalization\
+Yifan Hao, Yong Lin, **Difan Zou**, and Tong Zhang\
+\[[Arxiv](https://arxiv.org/pdf/2403.17592.pdf)\]
+
+
+* Improving Implicit Regularization of SGD with Preconditioning for Least Square Problems\
+Junwei Su, **Difan Zou**, and Chuan Wu\
+\[[Arxiv](https://arxiv.org/pdf/2403.08585.pdf)\]
+
+
 * An Improved Analysis of Langevin Algorithms with Prior Diffusion for Non-Log-Concave Sampling\
 Xunpeng Huang, Hanze Dong, **Difan Zou**,  and Tong Zhang\
 \[[Arxiv](https://arxiv.org/pdf/2403.06183.pdf)\]
