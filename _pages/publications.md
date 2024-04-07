@@ -13,18 +13,18 @@ author_profile: true
 Miao Lu, Beining Wu, Xiaodong Yang, **Difan Zou**\
 NeurIPS Workshop on Mathematics of Modern Machine Learning (M3L), 2023\
 International Conference on Learning Representations (**ICLR**), 2024 \
-\[[Arxiv](https://arxiv.org/pdf/2310.17074.pdf)\]
+\[[Paper](https://openreview.net/pdf?id=wYmvN3sQpG)\]\[[Arxiv](https://arxiv.org/pdf/2310.17074.pdf)\]
 
 
 * How Many Pretraining Tasks Are Needed for In-Context Learning of Linear Regression?\
 Jingfeng Wu, **Difan Zou**, Zixiang Chen, Vladimir Braverman, Quanquan Gu, Peter L. Bartlett\
-International Conference on Learning Representations (**ICLR**), 2024 \
-\[[Arxiv](https://arxiv.org/pdf/2310.08391.pdf)\]
+International Conference on Learning Representations (**ICLR**) (**Spotlight**), 2024 \
+\[[Paper](https://openreview.net/pdf?id=vSh5ePa0ph)\]\[[Arxiv](https://arxiv.org/pdf/2310.08391.pdf)\]
 
 * PRES: Toward Scalable Memory-Based Dynamic Graph Neural Networks\
 Junwei Su, **Difan Zou**, Chuan Wu\
 International Conference on Learning Representations (**ICLR**), 2024 \
-\[[Arxiv](https://difanzou.github.io/publications/)\]
+\[[Paper](https://openreview.net/pdf?id=gjXor87Xfy)\]\[[Arxiv](https://difanzou.github.io/publications/)\]
 
 
 * The Implicit Bias of Batch Normalization in Linear Models and
