@@ -175,6 +175,12 @@ International Conference on Machine Learning (**ICML**), 2018\
 
 ## Preprint
 
+* What Can Transformer Learn with Varying Depth? Case Studies on Sequence Learning Tasks\ 
+Xingwu Chen, **Difan Zou**\
+ICLR  Workshop on Bridging the Gap Between Practice and Theory in Deep Learning (BPGT), 2024 (**Oral Presentation**)\
+\[[Arxiv](https://arxiv.org/pdf/2404.01601.pdf)\]
+
+
 
 * On the Benefits of Over-parameterization for Out-of-Distribution Generalization\
 Yifan Hao, Yong Lin, **Difan Zou**, and Tong Zhang\
