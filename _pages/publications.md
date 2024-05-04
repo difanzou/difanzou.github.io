@@ -9,6 +9,32 @@ author_profile: true
 
 ## Publications
 
+* What Can Transformer Learn with Varying Depth? Case Studies on Sequence Learning Tasks\
+Xingwu Chen, **Difan Zou**\
+ICLR  Workshop on Bridging the Gap Between Practice and Theory in Deep Learning (BPGT), 2024 (**Oral Presentation**)\
+International Conference on Machine Learning (**ICML**), 2024\
+\[[Arxiv](https://arxiv.org/pdf/2404.01601.pdf)\]
+
+
+* Benign Overfitting in Two-Layer ReLU Convolutional Neural Networks for XOR Data\
+Xuran Meng, **Difan Zou**, Yuan Cao\
+International Conference on Machine Learning (**ICML**), 2024\
+\[[Arxiv](https://arxiv.org/pdf/2310.01975.pdf)\]
+
+* Improving Group Robustness on Spurious Correlation Requires Preciser Group Inference\
+Yujin Han, **Difan Zou**\
+International Conference on Machine Learning (**ICML**), 2024\
+\[[Arxiv](https://arxiv.org/pdf/2404.13815)\]
+
+* Faster Sampling via Stochastic Gradient Proximal Sampler\
+Xunpeng Huang, **Difan Zou**, Yian Ma, Hanze Dong, Tong Zhang\
+International Conference on Machine Learning (**ICML**), 2024
+
+* On the Limitation and Experience Replay for GNNs in Continual Learning\
+Junwei Su, **Difan Zou**, Chuan Wu\
+Conference on Lifelong Learning Agents (**CoLLAs**), 2024
+
+
 * Benign Oscillation of Stochastic Gradient Descent with Large Learning Rates\
 Miao Lu, Beining Wu, Xiaodong Yang, **Difan Zou**\
 NeurIPS Workshop on Mathematics of Modern Machine Learning (M3L), 2023\
@@ -175,12 +201,6 @@ International Conference on Machine Learning (**ICML**), 2018\
 
 ## Preprint
 
-* What Can Transformer Learn with Varying Depth? Case Studies on Sequence Learning Tasks\
-Xingwu Chen, **Difan Zou**\
-ICLR  Workshop on Bridging the Gap Between Practice and Theory in Deep Learning (BPGT), 2024 (**Oral Presentation**)\
-\[[Arxiv](https://arxiv.org/pdf/2404.01601.pdf)\]
-
-
 
 * On the Benefits of Over-parameterization for Out-of-Distribution Generalization\
 Yifan Hao, Yong Lin, **Difan Zou**, and Tong Zhang\
@@ -207,9 +227,6 @@ Xunpeng Huang, **Difan Zou**, Hanze Dong, Yian Ma, and Tong Zhang\
 Xu Luo, **Difan Zou**, Lianli Gao, Zenglin Xu, Jingkuan Song\
 \[[Arxiv](https://arxiv.org/pdf/2310.03843.pdf)\]
 
-* Benign Overfitting in Two-Layer ReLU Convolutional Neural Networks for XOR Data\
-Xuran Meng, **Difan Zou**, Yuan Cao\
-\[[Arxiv](https://arxiv.org/pdf/2310.01975.pdf)\]
 
 
 * Per-Example Gradient Regularization Improves Learning Signals from Noisy Data
