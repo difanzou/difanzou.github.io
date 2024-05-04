@@ -35,11 +35,10 @@ News
 
 * \[2023-10\] A new manuscript on [Learning XOR data via ReLU networks](https://arxiv.org/pdf/2310.01975.pdf) is online, where we provide a precise analysis on the generalization performance of ReLU CNN trained by GD on (non-orthogonal) XOR-type data. Any comments are welcomed! 
 
-* \[2023-06\] We are looking for  PostDocs in Mathematical Data Science. Candidates with a strong background in mathematics, proven publication record and interest in theoretical aspects of machine learning are encouraged to apply. Strong candidates can be referred to [HKU IDS PostDoc Research Fellowship](https://datascience.hku.hk/research/postdoctoral-fellowship/) (up to HKD 514800/year plus additional research funding support). Please find the details in the [advertisement](https://manchungyue.com/IDS_Postdoc_Ad.pdf). 
 
-* \[2023-05\] Our [paper](https://arxiv.org/pdf/2306.11680.pdf) on the implicit bias of batch normalization is accepted to COLT 2023, manustripts will be released soon!
+* \[2023-05\] Our [paper](https://arxiv.org/pdf/2306.11680.pdf) on the implicit bias of batch normalization is accepted to COLT 2023.
 
-* \[2023-03\] Two manuscripts on explaning the advantages of [Mixup](https://arxiv.org/pdf/2303.08433.pdf) and [Gradient Regularization](https://arxiv.org/pdf/2303.17940.pdf) in training neural networks are online. Any comments are welcomed!
+* \[2023-03\] Two manuscripts on explaning the advantages of [Mixup](https://arxiv.org/pdf/2303.08433.pdf) and [Gradient Regularization](https://arxiv.org/pdf/2303.17940.pdf) in training neural networks are online.
 
 * \[2023-03\] I will serve as the Area Chair in NeurIPS 2023.
 
