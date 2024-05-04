@@ -20,9 +20,9 @@ News
 
 * <span style="color:red"> Multiple openings for PhD, Postdoc, interns, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group.   </span>
 
-* \[2024-05\] Four papers on [handling spurious correlation via better group classifier], [transformer expressive power with varying layers], [faster rate of stochastic proximal sampler], and [benign overfitting for XOR data] are accepted to ICML 2024.
+* \[2024-05\] Four papers on [handling spurious correlation via better group classifier](./), [transformer expressive power with varying layers](./), [faster rate of stochastic proximal sampler](./), and [benign overfitting for XOR data](./) are accepted to ICML 2024.
 
-* \[2024-04\] One paper on [continual learning for GNN] are accepted to CoLLAs 2024.
+* \[2024-04\] One paper on [continual learning for GNN](./) are accepted to CoLLAs 2024.
 
 
 
