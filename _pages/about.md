@@ -20,6 +20,8 @@ News
 
 * <span style="color:red"> Multiple openings for PhD, Postdoc, interns, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group.   </span>
 
+* \[2024-05\] One paper on [faster non-log-concave sampling](https://arxiv.org/pdf/2401.06325.pdf) is accepted to COLT 2024.
+
 * \[2024-05\] Four papers on [handling spurious correlation via better group classifier](./), [transformer expressive power with varying layers](./), [faster rate of stochastic proximal sampler](./), and [benign overfitting for XOR data](./) are accepted to ICML 2024.
 
 * \[2024-04\] One paper on [continual learning for GNN](./) are accepted to CoLLAs 2024.
@@ -27,13 +29,6 @@ News
 
 
 * \[2024-01\] Three papers on [SGD with large learning rate](https://arxiv.org/pdf/2310.17074.pdf), [scalable training of dynamic GNN](https://difanzou.github.io/), and [finite sample in-context learning](https://arxiv.org/pdf/2310.08391.pdf) are accepted to ICLR 2024.
-
-* \[2024-01\] A new manuscript on [faster non-log-concave sampling](https://arxiv.org/pdf/2401.06325.pdf) is online, where we show that non-exponential convergence can be achieved for sampling non-log-concave distributions (or distribution without isoperimetry) via diffusion-based Monte Carlo. Any comments are welcomed!
-
-* \[2023-10\] A new manuscript on [the Oscillation Effect of SGD](https://arxiv.org/pdf/2310.17074.pdf) is online, where we theoretically investigate the benefit of the oscillation of SGD with large learning rate for genralization. Any comments are welcomed! 
-
-
-* \[2023-10\] A new manuscript on [Learning XOR data via ReLU networks](https://arxiv.org/pdf/2310.01975.pdf) is online, where we provide a precise analysis on the generalization performance of ReLU CNN trained by GD on (non-orthogonal) XOR-type data. Any comments are welcomed! 
 
 
 * \[2023-05\] Our [paper](https://arxiv.org/pdf/2306.11680.pdf) on the implicit bias of batch normalization is accepted to COLT 2023.
