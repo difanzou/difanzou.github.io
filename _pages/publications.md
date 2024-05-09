@@ -9,6 +9,12 @@ author_profile: true
 
 ## Publications
 
+* Faster Sampling without Isoperimetry via Diffusion-based Monte Carlo\
+Xunpeng Huang, **Difan Zou**, Hanze Dong, Yian Ma, and Tong Zhang\
+Annual Conference on Learning Theory (**COLT**), 2023\
+\[[Arxiv](https://arxiv.org/pdf/2401.06325.pdf)\]
+
+
 * What Can Transformer Learn with Varying Depth? Case Studies on Sequence Learning Tasks\
 Xingwu Chen, **Difan Zou**\
 ICLR  Workshop on Bridging the Gap Between Practice and Theory in Deep Learning (BPGT), 2024 (**Oral Presentation**)\
@@ -215,11 +221,6 @@ Junwei Su, **Difan Zou**, and Chuan Wu\
 * An Improved Analysis of Langevin Algorithms with Prior Diffusion for Non-Log-Concave Sampling\
 Xunpeng Huang, Hanze Dong, **Difan Zou**,  and Tong Zhang\
 \[[Arxiv](https://arxiv.org/pdf/2403.06183.pdf)\]
-
-
-* Faster Sampling without Isoperimetry via Diffusion-based Monte Carlo\
-Xunpeng Huang, **Difan Zou**, Hanze Dong, Yian Ma, and Tong Zhang\
-\[[Arxiv](https://arxiv.org/pdf/2401.06325.pdf)\]
 
 
 
