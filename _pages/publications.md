@@ -56,7 +56,7 @@ International Conference on Learning Representations (**ICLR**) (**Spotlight**),
 * PRES: Toward Scalable Memory-Based Dynamic Graph Neural Networks\
 Junwei Su, **Difan Zou**, Chuan Wu\
 International Conference on Learning Representations (**ICLR**), 2024 \
-\[[Paper](https://openreview.net/pdf?id=gjXor87Xfy)\]\[[Arxiv](https://difanzou.github.io/publications/)\]
+\[[Paper](https://openreview.net/pdf?id=gjXor87Xfy)\]\[[Arxiv](https://difanzou.github.io/publications/)\]\[[Code](https://github.com/jwsu825/MDGNN_BS)\]
 
 
 * The Implicit Bias of Batch Normalization in Linear Models and
@@ -78,7 +78,7 @@ International Conference on Machine Learning (**ICML**), 2023\
 * Towards Robust Graph Incremental Learning on Evolving Graphs\
 Junwei Su, **Difan Zou**, Zijun Zhang, Chuan Wu\
 International Conference on Machine Learning (**ICML**), 2023\
-\[[Paper](https://openreview.net/pdf?id=DdQ8ewIgY9)\]
+\[[Arxiv](https://arxiv.org/pdf/2402.12987)\]\[[Paper](https://openreview.net/pdf?id=DdQ8ewIgY9)\]\[[Code](https://github.com/littleTown93/NGIL_Evolve)\]
 
 * Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization\
 **Difan Zou**, Yuan Cao, Yuanzhi Li, and Quanquan Gu\
