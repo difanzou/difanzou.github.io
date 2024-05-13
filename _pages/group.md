@@ -15,8 +15,9 @@ author_profile: true
 ## Research Interns
 - Siyan Li (USTC)
 - Chengxing Xie (Xidian U)
-- Hanyu Wang (USTC -> PSU)
 - Tunyu Zhang (USTC)
+- Lei Zhao (USTC -> UPenn)
+- Hanyu Wang (USTC -> PSU)
 - Shuning Shang (Zhejiang University)
 - Miao Lu (USTC -> Stanford)
 - Beining Wu (USTC -> U of Chicago)
