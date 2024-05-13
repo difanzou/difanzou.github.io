@@ -13,7 +13,9 @@ author_profile: true
 - Junwei Su (CS, co-advised with Prof. Chuan Wu)
 
 ## Research Interns
-- Hanyu Wang (USTC)
+- Siyan Li (USTC)
+- Chengxing Xie (Xidian U)
+- Hanyu Wang (USTC -> PSU)
 - Tunyu Zhang (USTC)
 - Shuning Shang (Zhejiang University)
 - Miao Lu (USTC -> Stanford)
