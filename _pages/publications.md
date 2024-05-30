@@ -207,6 +207,19 @@ International Conference on Machine Learning (**ICML**), 2018\
 
 ## Preprint
 
+* A Human-Like Reasoning Framework for Multi-Phases Planning Task with Large Language Models\
+Chengxing Xie, **Difan Zou** \
+\[[Arxiv](https://arxiv.org/pdf/2405.18208)\]
+
+
+* Faster Sampling via Stochastic Gradient Proximal Sampler\
+Xunpeng Huang, **Difan Zou**, Yi-An Ma, Hanze Dong, Tong Zhang\
+\[[Arxiv](https://arxiv.org/pdf/2405.16734)\]
+
+* Reverse Transition Kernel: A Flexible Framework to Accelerate Diffusion Inference\
+Xunpeng Huang, **Difan Zou**, Hanze Dong, Yi Zhang, Yi-An Ma, Tong Zhang\
+\[[Arxiv](https://arxiv.org/pdf/2405.16387)\]
+
 
 * On the Benefits of Over-parameterization for Out-of-Distribution Generalization\
 Yifan Hao, Yong Lin, **Difan Zou**, and Tong Zhang\
