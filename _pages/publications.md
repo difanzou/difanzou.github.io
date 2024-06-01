@@ -35,6 +35,7 @@ International Conference on Machine Learning (**ICML**), 2024\
 * Faster Sampling via Stochastic Gradient Proximal Sampler\
 Xunpeng Huang, **Difan Zou**, Yian Ma, Hanze Dong, Tong Zhang\
 International Conference on Machine Learning (**ICML**), 2024
+\[[Arxiv](https://arxiv.org/pdf/2405.16734)\]
 
 * On the Limitation and Experience Replay for GNNs in Continual Learning\
 Junwei Su, **Difan Zou**, Chuan Wu\
@@ -211,10 +212,6 @@ International Conference on Machine Learning (**ICML**), 2018\
 Chengxing Xie, **Difan Zou** \
 \[[Arxiv](https://arxiv.org/pdf/2405.18208)\]
 
-
-* Faster Sampling via Stochastic Gradient Proximal Sampler\
-Xunpeng Huang, **Difan Zou**, Yi-An Ma, Hanze Dong, Tong Zhang\
-\[[Arxiv](https://arxiv.org/pdf/2405.16734)\]
 
 * Reverse Transition Kernel: A Flexible Framework to Accelerate Diffusion Inference\
 Xunpeng Huang, **Difan Zou**, Hanze Dong, Yi Zhang, Yi-An Ma, Tong Zhang\
