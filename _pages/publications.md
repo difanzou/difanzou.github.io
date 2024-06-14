@@ -9,6 +9,8 @@ author_profile: true
 
 ## Publications
 
+
+
 * Faster Sampling without Isoperimetry via Diffusion-based Monte Carlo\
 Xunpeng Huang, **Difan Zou**, Hanze Dong, Yian Ma, and Tong Zhang\
 Annual Conference on Learning Theory (**COLT**), 2023\
@@ -207,6 +209,15 @@ International Conference on Machine Learning (**ICML**), 2018\
 \[[Paper](http://proceedings.mlr.press/v80/zou18a/zou18a.pdf)\] \[[ArXiv](https://arxiv.org/pdf/1802.04791.pdf)\]
 
 ## Preprint
+
+* Self-Control of LLM Behaviors by Compressing Suffix Gradient into Prefix Controller\
+Min Cai, Yuchen Zhang, Shichang Zhang, Fan Yin, **Difan Zou**, Yisong Yue, Ziniu Hu\
+\[[Arxiv](https://arxiv.org/pdf/2406.02721)\]\[[Website](https://llm-self-control.github.io/)\]\[[Code](https://github.com/HenryCai11/LLM-Self-Control)\]
+
+
+* Slight Corruption in Pre-training Data Makes Better Diffusion Models\
+Hao Chen, Yujin Han, Diganta Misra, Xiang Li, Kai Hu, **Difan Zou**, Masashi Sugiyama, Jindong Wang, Bhiksha Raj\
+\[[Arxiv](https://arxiv.org/pdf/2405.20494)\]
 
 * A Human-Like Reasoning Framework for Multi-Phases Planning Task with Large Language Models\
 Chengxing Xie, **Difan Zou** \
