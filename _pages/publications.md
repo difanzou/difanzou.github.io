@@ -13,7 +13,7 @@ author_profile: true
 
 * Faster Sampling without Isoperimetry via Diffusion-based Monte Carlo\
 Xunpeng Huang, **Difan Zou**, Hanze Dong, Yian Ma, and Tong Zhang\
-Annual Conference on Learning Theory (**COLT**), 2023\
+Annual Conference on Learning Theory (**COLT**), 2024\
 \[[Arxiv](https://arxiv.org/pdf/2401.06325.pdf)\]
 
 
@@ -210,6 +210,10 @@ International Conference on Machine Learning (**ICML**), 2018\
 
 ## Preprint
 
+* The Implicit Bias of Adam on Separable Data\
+Chenyang Zhang, Difan Zou, Yuan Cao\
+\[[Arxiv](https://arxiv.org/pdf/2406.10650)\]
+
 * Self-Control of LLM Behaviors by Compressing Suffix Gradient into Prefix Controller\
 Min Cai, Yuchen Zhang, Shichang Zhang, Fan Yin, **Difan Zou**, Yisong Yue, Ziniu Hu\
 \[[Arxiv](https://arxiv.org/pdf/2406.02721)\]\[[Website](https://llm-self-control.github.io/)\]\[[Code](https://github.com/HenryCai11/LLM-Self-Control)\]
@@ -221,11 +225,13 @@ Hao Chen, Yujin Han, Diganta Misra, Xiang Li, Kai Hu, **Difan Zou**, Masashi Sug
 
 * A Human-Like Reasoning Framework for Multi-Phases Planning Task with Large Language Models\
 Chengxing Xie, **Difan Zou** \
+ICML Workshop on LLMs and Cognition, 2024\
 \[[Arxiv](https://arxiv.org/pdf/2405.18208)\]
 
 
 * Reverse Transition Kernel: A Flexible Framework to Accelerate Diffusion Inference\
 Xunpeng Huang, **Difan Zou**, Hanze Dong, Yi Zhang, Yi-An Ma, Tong Zhang\
+ICML Workshop on Structured Probabilistic Inference & Generative Modeling, 2024 (**Oral Presentation**)\
 \[[Arxiv](https://arxiv.org/pdf/2405.16387)\]
 
 
