@@ -22,7 +22,7 @@ News
 
 * <span style="color:red"> Multiple openings for PhD, Postdoc, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group. For interested PhD candidates in 2025, please submit your application in https://i.cs.hku.hk/~gradappl/index.html and inform me via email. </span>
 
-* \[2024-06\] Receiving a UGC ECS funding on diffusion-based Monte Carlo.
+<!-- * \[2024-06\] Receiving a UGC ECS funding on diffusion-based Monte Carlo. -->
 
 * \[2024-06\] One paper on [faster diffusion inference/sampling](https://arxiv.org/pdf/2405.16387) is accepted to SPIGM @ ICML workshop as an oral presentation.
 
@@ -32,12 +32,12 @@ News
 
 * \[2024-04\] One paper on [continual learning for GNN](./) is accepted to CoLLAs 2024.
 
-* \[2024-04\] Receiving a Guangdong NSF funding on theoretical foundation of diffusion models.
+<!-- * \[2024-04\] Receiving a Guangdong NSF funding on theoretical foundation of diffusion models. -->
 
 
 * \[2024-01\] Three papers on [SGD with large learning rate](https://arxiv.org/pdf/2310.17074.pdf), [scalable training of dynamic GNN](https://difanzou.github.io/), and [finite sample in-context learning](https://arxiv.org/pdf/2310.08391.pdf) are accepted to ICLR 2024.
 
-* \[2023-08\] Receiving an NSFC funding on the theoretical foundation of SGD in deep learning.
+<!-- * \[2023-08\] Receiving an NSFC funding on the theoretical foundation of SGD in deep learning. -->
 
 * \[2023-05\] Our [paper](https://arxiv.org/pdf/2306.11680.pdf) on the implicit bias of batch normalization is accepted to COLT 2023.
 
