@@ -24,7 +24,7 @@ News
 
 <!-- * \[2024-06\] Receiving a UGC ECS funding on diffusion-based Monte Carlo. -->
 
-* \[2024-06\] One paper on [faster diffusion inference/sampling](https://arxiv.org/pdf/2405.16387) is accepted to SPIGM @ ICML workshop as an oral presentation.
+* \[2024-06\] One paper on [faster diffusion inference/sampling](https://arxiv.org/pdf/2405.16387) is accepted to SPIGM @ ICML workshop as an oral presentation and wins the best paper award!
 
 * \[2024-05\] One paper on [faster non-log-concave sampling](https://arxiv.org/pdf/2401.06325.pdf) is accepted to COLT 2024.
 
