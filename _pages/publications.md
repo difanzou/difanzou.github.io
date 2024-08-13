@@ -14,30 +14,30 @@ author_profile: true
 * Faster Sampling without Isoperimetry via Diffusion-based Monte Carlo\
 Xunpeng Huang, **Difan Zou**, Hanze Dong, Yian Ma, and Tong Zhang\
 Annual Conference on Learning Theory (**COLT**), 2024\
-\[[Arxiv](https://arxiv.org/pdf/2401.06325.pdf)\]
+\[[Paper](https://proceedings.mlr.press/v247/huang24a/huang24a.pdf)\]\[[Arxiv](https://arxiv.org/pdf/2401.06325.pdf)\]
 
 
 * What Can Transformer Learn with Varying Depth? Case Studies on Sequence Learning Tasks\
 Xingwu Chen, **Difan Zou**\
 ICLR  Workshop on Bridging the Gap Between Practice and Theory in Deep Learning (BPGT), 2024 (**Oral Presentation**)\
 International Conference on Machine Learning (**ICML**), 2024\
-\[[Arxiv](https://arxiv.org/pdf/2404.01601.pdf)\]
+\[[Paper](https://openreview.net/pdf?id=YNbCbcGyXE)\]\[[Arxiv](https://arxiv.org/pdf/2404.01601.pdf)\]
 
 
 * Benign Overfitting in Two-Layer ReLU Convolutional Neural Networks for XOR Data\
 Xuran Meng, **Difan Zou**, Yuan Cao\
 International Conference on Machine Learning (**ICML**), 2024\
-\[[Arxiv](https://arxiv.org/pdf/2310.01975.pdf)\]
+\[[Paper](https://openreview.net/pdf?id=EhU0xBSP4l&name=pdf)\]\[[Arxiv](https://arxiv.org/pdf/2310.01975.pdf)\]
 
 * Improving Group Robustness on Spurious Correlation Requires Preciser Group Inference\
 Yujin Han, **Difan Zou**\
 International Conference on Machine Learning (**ICML**), 2024\
-\[[Arxiv](https://arxiv.org/pdf/2404.13815)\]
+\[[Paper](https://openreview.net/pdf?id=KycvgOCBBR&name=pdf)\]\[[Arxiv](https://arxiv.org/pdf/2404.13815)\]
 
 * Faster Sampling via Stochastic Gradient Proximal Sampler\
 Xunpeng Huang, **Difan Zou**, Yian Ma, Hanze Dong, Tong Zhang\
 International Conference on Machine Learning (**ICML**), 2024
-\[[Arxiv](https://arxiv.org/pdf/2405.16734)\]
+\[[Paper](https://openreview.net/pdf?id=7gEcbhMqKU)\]\[[Arxiv](https://arxiv.org/pdf/2405.16734)\]
 
 * On the Limitation and Experience Replay for GNNs in Continual Learning\
 Junwei Su, **Difan Zou**, Chuan Wu\
@@ -210,8 +210,12 @@ International Conference on Machine Learning (**ICML**), 2018\
 
 ## Preprint
 
+* How Transformers Utilize Multi-Head Attention in In-Context Learning? A Case Study on Sparse Linear Regression\
+Xingwu Chen\*, Lei Zhao\*, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2408.04532)\]
+
 * The Implicit Bias of Adam on Separable Data\
-Chenyang Zhang, Difan Zou, Yuan Cao\
+Chenyang Zhang, **Difan Zou**, Yuan Cao\
 \[[Arxiv](https://arxiv.org/pdf/2406.10650)\]
 
 * Self-Control of LLM Behaviors by Compressing Suffix Gradient into Prefix Controller\
