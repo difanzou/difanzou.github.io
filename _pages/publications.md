@@ -9,7 +9,38 @@ author_profile: true
 
 ## Publications
 
+* Reverse Transition Kernel: A Flexible Framework to Accelerate Diffusion Inference\
+Xunpeng Huang, **Difan Zou**, Hanze Dong, Yi Zhang, Yi-An Ma, Tong Zhang\
+ICML Workshop on Structured Probabilistic Inference & Generative Modeling, 2024 (**Oral Presentation**)\
+Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2024 (**Spotlight**)\
+\[[Arxiv](https://arxiv.org/pdf/2405.16387)\]
 
+* Slight Corruption in Pre-training Data Makes Better Diffusion Models\
+Hao Chen, Yujin Han, Diganta Misra, Xiang Li, Kai Hu, **Difan Zou**, Masashi Sugiyama, Jindong Wang, Bhiksha Raj\
+Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2024 (**Spotlight**)\
+\[[Arxiv](https://arxiv.org/pdf/2405.20494)\]
+
+
+* How Transformers Utilize Multi-Head Attention in In-Context Learning? A Case Study on Sparse Linear Regression\
+Xingwu Chen\*, Lei Zhao\*, **Difan Zou**\
+Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2024 \
+\[[Arxiv](https://arxiv.org/pdf/2408.04532)\]
+
+* The Implicit Bias of Adam on Separable Data\
+Chenyang Zhang, **Difan Zou**, Yuan Cao\
+Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2024 \
+\[[Arxiv](https://arxiv.org/pdf/2406.10650)\]
+
+* A Comprehensive Investigation of Sparse Rate Reduction in Transformer-like Models\
+Yunzhe Hu, **Difan Zou**, Dong Xu\
+Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2024 \
+\[[Arxiv](./)\]
+
+
+* Per-Example Gradient Regularization Improves Learning Signals from Noisy Data\
+Xuran Meng, Yuan Cao, **Difan Zou**\
+Springer Machine Learning Journal, 2024 (accepted)\
+\[[Arxiv](https://arxiv.org/pdf/2303.17940.pdf)\]
 
 * Faster Sampling without Isoperimetry via Diffusion-based Monte Carlo\
 Xunpeng Huang, **Difan Zou**, Hanze Dong, Yian Ma, and Tong Zhang\
@@ -36,7 +67,7 @@ International Conference on Machine Learning (**ICML**), 2024\
 
 * Faster Sampling via Stochastic Gradient Proximal Sampler\
 Xunpeng Huang, **Difan Zou**, Yian Ma, Hanze Dong, Tong Zhang\
-International Conference on Machine Learning (**ICML**), 2024
+International Conference on Machine Learning (**ICML**), 2024\
 \[[Paper](https://openreview.net/pdf?id=7gEcbhMqKU)\]\[[Arxiv](https://arxiv.org/pdf/2405.16734)\]
 
 * On the Limitation and Experience Replay for GNNs in Continual Learning\
@@ -210,33 +241,19 @@ International Conference on Machine Learning (**ICML**), 2018\
 
 ## Preprint
 
-* How Transformers Utilize Multi-Head Attention in In-Context Learning? A Case Study on Sparse Linear Regression\
-Xingwu Chen\*, Lei Zhao\*, **Difan Zou**\
-\[[Arxiv](https://arxiv.org/pdf/2408.04532)\]
 
-* The Implicit Bias of Adam on Separable Data\
-Chenyang Zhang, **Difan Zou**, Yuan Cao\
-\[[Arxiv](https://arxiv.org/pdf/2406.10650)\]
 
 * Self-Control of LLM Behaviors by Compressing Suffix Gradient into Prefix Controller\
 Min Cai, Yuchen Zhang, Shichang Zhang, Fan Yin, **Difan Zou**, Yisong Yue, Ziniu Hu\
 \[[Arxiv](https://arxiv.org/pdf/2406.02721)\]\[[Website](https://llm-self-control.github.io/)\]\[[Code](https://github.com/HenryCai11/LLM-Self-Control)\]
 
 
-* Slight Corruption in Pre-training Data Makes Better Diffusion Models\
-Hao Chen, Yujin Han, Diganta Misra, Xiang Li, Kai Hu, **Difan Zou**, Masashi Sugiyama, Jindong Wang, Bhiksha Raj\
-\[[Arxiv](https://arxiv.org/pdf/2405.20494)\]
+
 
 * A Human-Like Reasoning Framework for Multi-Phases Planning Task with Large Language Models\
 Chengxing Xie, **Difan Zou** \
 ICML Workshop on LLMs and Cognition, 2024\
 \[[Arxiv](https://arxiv.org/pdf/2405.18208)\]
-
-
-* Reverse Transition Kernel: A Flexible Framework to Accelerate Diffusion Inference\
-Xunpeng Huang, **Difan Zou**, Hanze Dong, Yi Zhang, Yi-An Ma, Tong Zhang\
-ICML Workshop on Structured Probabilistic Inference & Generative Modeling, 2024 (**Oral Presentation**)\
-\[[Arxiv](https://arxiv.org/pdf/2405.16387)\]
 
 
 * On the Benefits of Over-parameterization for Out-of-Distribution Generalization\
@@ -258,13 +275,6 @@ Xunpeng Huang, Hanze Dong, **Difan Zou**,  and Tong Zhang\
 * Less is More: On the Feature Redundancy of Pertrained Models When Transferring to Few-Shot Tasks\
 Xu Luo, **Difan Zou**, Lianli Gao, Zenglin Xu, Jingkuan Song\
 \[[Arxiv](https://arxiv.org/pdf/2310.03843.pdf)\]
-
-
-
-* Per-Example Gradient Regularization Improves Learning Signals from Noisy Data
-\
-Xuran Meng, Yuan Cao, **Difan Zou**\
-\[[Arxiv](https://arxiv.org/pdf/2303.17940.pdf)\]
 
 
 
