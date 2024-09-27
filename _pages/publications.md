@@ -11,7 +11,7 @@ author_profile: true
 
 * Reverse Transition Kernel: A Flexible Framework to Accelerate Diffusion Inference\
 Xunpeng Huang, **Difan Zou**, Hanze Dong, Yi Zhang, Yi-An Ma, Tong Zhang\
-ICML Workshop on Structured Probabilistic Inference & Generative Modeling, 2024 (**Oral Presentation**)\
+ICML Workshop on Structured Probabilistic Inference & Generative Modeling, 2024 (**Oral Presentation & Best Paper Award**)\
 Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2024 (**Spotlight**)\
 \[[Arxiv](https://arxiv.org/pdf/2405.16387)\]
 
