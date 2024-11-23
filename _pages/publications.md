@@ -240,13 +240,22 @@ International Conference on Machine Learning (**ICML**), 2018\
 \[[Paper](http://proceedings.mlr.press/v80/zou18a/zou18a.pdf)\] \[[ArXiv](https://arxiv.org/pdf/1802.04791.pdf)\]
 
 ## Preprint
+* How Does Critical Batch Size Scale in Pre-training?\
+Hanlin Zhang, Depen Morwani, Nikhil Vyas, Jingfeng Wu, **Difan Zou**, Udaya Ghai, Dean Foster, Sham Kakade\
+\[[Arxiv](https://arxiv.org/pdf/2410.21676)\]
 
 
+* Initialization Matters: On the Benign Overfitting of Two-Layer ReLU CNN with Fully Trainable Layers\
+Shuning Shang, Xuran Meng, Yuan Cao, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2410.19139)\]
+
+* Towards a Theoretical Understanding of Memorization in Diffusion Models\
+Yunhao Chen, Xingjun Ma, **Difan Zou**, Yu-Gang Jiang\
+\[[Arxiv](https://arxiv.org/pdf/2410.02467)\]
 
 * Self-Control of LLM Behaviors by Compressing Suffix Gradient into Prefix Controller\
 Min Cai, Yuchen Zhang, Shichang Zhang, Fan Yin, **Difan Zou**, Yisong Yue, Ziniu Hu\
 \[[Arxiv](https://arxiv.org/pdf/2406.02721)\]\[[Website](https://llm-self-control.github.io/)\]\[[Code](https://github.com/HenryCai11/LLM-Self-Control)\]
-
 
 
 
