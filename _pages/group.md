@@ -7,18 +7,20 @@ author_profile: true
 
 ## PhD students
 
-- Yujin Han (CS)
-- Xingwu Chen (CS)
-- Yi Zhang (IDS)
-- Junwei Su (CS, co-advised with Prof. Chuan Wu)
+- Yujin Han (CS, 2023 - present)
+- Xingwu Chen (CS, 2023 - present)
+- Yi Zhang (IDS, 2023 - present)
+- Peifeng Gao (CS, 2024 - present)
+- Tianle Li (IDS, 2024 - present)
+- Junwei Su (CS, co-advised with Prof. Chuan Wu, 2021 - present)
 
 ## Research Interns
-- Siyan Li (USTC)
-- Chengxing Xie (Xidian U)
+- Zhi Wang (USTC)
+- Chengxing Xie (Xidian University -> Tsinghua University)
 - Tunyu Zhang (USTC)
 - Lei Zhao (USTC -> UPenn)
 - Hanyu Wang (USTC -> PSU)
 - Shuning Shang (Zhejiang University)
 - Miao Lu (USTC -> Stanford)
-- Beining Wu (USTC -> U of Chicago)
+- Beining Wu (USTC -> University of Chicago)
 
