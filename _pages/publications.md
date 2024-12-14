@@ -31,7 +31,7 @@ Chenyang Zhang, **Difan Zou**, Yuan Cao\
 Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2024 \
 \[[Arxiv](https://arxiv.org/pdf/2406.10650)\]
 
-* A Comprehensive Investigation of Sparse Rate Reduction in Transformer-like Models\
+* An In-depth Investigation of Sparse Rate Reduction in Transformer-like Models\
 Yunzhe Hu, **Difan Zou**, Dong Xu\
 Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2024 \
 \[[Arxiv](./)\]
@@ -240,6 +240,16 @@ International Conference on Machine Learning (**ICML**), 2018\
 \[[Paper](http://proceedings.mlr.press/v80/zou18a/zou18a.pdf)\] \[[ArXiv](https://arxiv.org/pdf/1802.04791.pdf)\]
 
 ## Preprint
+
+* On the Feature Learning in Diffusion Models\
+Andi Han, Wei Huang, Yuan Cao, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2412.01021)\]
+
+
+* Beyond Surface Structure: A Causal Assessment of LLMs' Comprehension Ability\
+Yujin Han, Lei Xu, Sirui Chen, **Difan Zou**, Chaochao Lu\
+\[[Arxiv](https://arxiv.org/pdf/2411.19456)\]
+
 * How Does Critical Batch Size Scale in Pre-training?\
 Hanlin Zhang, Depen Morwani, Nikhil Vyas, Jingfeng Wu, **Difan Zou**, Udaya Ghai, Dean Foster, Sham Kakade\
 \[[Arxiv](https://arxiv.org/pdf/2410.21676)\]
