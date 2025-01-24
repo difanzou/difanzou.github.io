@@ -9,6 +9,28 @@ author_profile: true
 
 ## Publications
 
+* Optimization-Biased Hypernetworks for Generalizable Policy Generation\
+Hanxiang Ren, Li Sun, Xulong Wang, Pei Zhou, Zewen Wu, Siyan Dong, **Difan Zou**, Youyi Zheng, Yanchao Yang\
+International Conference on Learning Representations (**ICLR**), 2025 \
+\[[Arxiv](.\)\]
+
+* On the Feature Learning in Diffusion Models\
+Andi Han, Wei Huang, Yuan Cao, **Difan Zou**\
+International Conference on Learning Representations (**ICLR**), 2025 \
+\[[Arxiv](https://arxiv.org/pdf/2412.01021)\]
+
+
+* Beyond Surface Structure: A Causal Assessment of LLMs' Comprehension Ability\
+Yujin Han, Lei Xu, Sirui Chen, **Difan Zou**, Chaochao Lu\
+International Conference on Learning Representations (**ICLR**), 2025 \
+\[[Arxiv](https://arxiv.org/pdf/2411.19456)\]
+
+* How Does Critical Batch Size Scale in Pre-training?\
+Hanlin Zhang, Depen Morwani, Nikhil Vyas, Jingfeng Wu, **Difan Zou**, Udaya Ghai, Dean Foster, Sham Kakade\
+International Conference on Learning Representations (**ICLR**), 2025 \
+\[[Arxiv](https://arxiv.org/pdf/2410.21676)\]
+
+
 * Reverse Transition Kernel: A Flexible Framework to Accelerate Diffusion Inference\
 Xunpeng Huang, **Difan Zou**, Hanze Dong, Yi Zhang, Yi-An Ma, Tong Zhang\
 ICML Workshop on Structured Probabilistic Inference & Generative Modeling, 2024 (**Oral Presentation & Best Paper Award**)\
@@ -241,19 +263,6 @@ International Conference on Machine Learning (**ICML**), 2018\
 
 ## Preprint
 
-* On the Feature Learning in Diffusion Models\
-Andi Han, Wei Huang, Yuan Cao, **Difan Zou**\
-\[[Arxiv](https://arxiv.org/pdf/2412.01021)\]
-
-
-* Beyond Surface Structure: A Causal Assessment of LLMs' Comprehension Ability\
-Yujin Han, Lei Xu, Sirui Chen, **Difan Zou**, Chaochao Lu\
-\[[Arxiv](https://arxiv.org/pdf/2411.19456)\]
-
-* How Does Critical Batch Size Scale in Pre-training?\
-Hanlin Zhang, Depen Morwani, Nikhil Vyas, Jingfeng Wu, **Difan Zou**, Udaya Ghai, Dean Foster, Sham Kakade\
-\[[Arxiv](https://arxiv.org/pdf/2410.21676)\]
-
 
 * Initialization Matters: On the Benign Overfitting of Two-Layer ReLU CNN with Fully Trainable Layers\
 Shuning Shang, Xuran Meng, Yuan Cao, **Difan Zou**\
@@ -266,7 +275,6 @@ Yunhao Chen, Xingjun Ma, **Difan Zou**, Yu-Gang Jiang\
 * Self-Control of LLM Behaviors by Compressing Suffix Gradient into Prefix Controller\
 Min Cai, Yuchen Zhang, Shichang Zhang, Fan Yin, **Difan Zou**, Yisong Yue, Ziniu Hu\
 \[[Arxiv](https://arxiv.org/pdf/2406.02721)\]\[[Website](https://llm-self-control.github.io/)\]\[[Code](https://github.com/HenryCai11/LLM-Self-Control)\]
-
 
 
 * A Human-Like Reasoning Framework for Multi-Phases Planning Task with Large Language Models\
