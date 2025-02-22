@@ -263,6 +263,29 @@ International Conference on Machine Learning (**ICML**), 2018\
 
 ## Preprint
 
+* Towards Understanding Fine-Tuning Mechanisms of LLMs via Circuit Analysis\
+Xu Wang, Yan Hu, Wenyu Du, Reynold Cheng, Benyou Wang, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2502.11812)\]
+
+* Hyperspherical Energy Transformer with Recurrent Depth\
+Yunzhe Hu, **Difan Zou**, Dong Xu\
+\[[Arxiv](https://arxiv.org/pdf/2502.11646)\]
+
+* Can Diffusion Models Learn Hidden Inter-Feature Rules Behind Images?\
+Yujin Han, Andi Han, Wei Huang, Chaochao Lu, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2502.04725)\]
+
+* Masked Autoencoders Are Effective Tokenizers for Diffusion Models\
+Hao Chen, Yujin Han, Fangyi Chen, Xiang Li, Yidong Wang, Jindong Wang, Ze Wang, Zicheng Liu, **Difan Zou**, Bhiksha Raj\
+\[[Arxiv](https://arxiv.org/pdf/2502.03444)\]
+
+* SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution\
+Chengxing Xie, Bowen Li, Chang Gao, He Du, Wai Lam, **Difan Zou**, Kai Chen\
+\[[Arxiv](https://arxiv.org/pdf/2501.05040)\]
+
+* Parallelized Autoregressive Visual Generation\
+Yuqing Wang, Shuhuai Ren, Zhijie Lin, Yujin Han, Haoyuan Guo, Zhenheng Yang, **Difan Zou**, Jiashi Feng, Xihui Liu\
+\[[Arxiv](https://arxiv.org/pdf/2412.15119)\]
 
 * Initialization Matters: On the Benign Overfitting of Two-Layer ReLU CNN with Fully Trainable Layers\
 Shuning Shang, Xuran Meng, Yuan Cao, **Difan Zou**\
