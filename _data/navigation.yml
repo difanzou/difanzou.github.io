@@ -4,8 +4,7 @@ main:
   - title: "Home"
     url: /about/
     
- # - title: "group"
- #   url: /group/
+
     
   - title: "Publications"
     url: /publications/
@@ -15,6 +14,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "group"
+   url: /group/
     
  # - title: "Portfolio"
  #   url: /portfolio/
