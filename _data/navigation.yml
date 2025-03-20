@@ -4,7 +4,7 @@ main:
   - title: "Home"
     url: /about/
     
-  - title: "group"
+  - title: "Group"
     url: /group/
     
   - title: "Publications"

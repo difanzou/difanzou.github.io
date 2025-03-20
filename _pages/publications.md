@@ -9,6 +9,16 @@ author_profile: true
 
 ## Publications
 
+* STGAN: Spatial-temporal Graph Autoregression Network for Pavement Distress Deterioration Prediction\
+Shilin Tong, Difei Wu, Xiaona Liu, Le Zheng, Yuchuan Du, **Difan Zou**\
+IEEE Transactions on Intelligent Transportation Systems (TITS), 2025\
+\[[Paper](https://ieeexplore.ieee.org/document/10927411)\]\[[Arxiv](https://arxiv.org/pdf/2503.01152)\]
+
+* Parallelized Autoregressive Visual Generation\
+Yuqing Wang, Shuhuai Ren, Zhijie Lin, Yujin Han, Haoyuan Guo, Zhenheng Yang, **Difan Zou**, Jiashi Feng, Xihui Liu\
+Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025\
+\[[Arxiv](https://arxiv.org/pdf/2412.15119)\]
+
 * Optimization-Biased Hypernetworks for Generalizable Policy Generation\
 Hanxiang Ren, Li Sun, Xulong Wang, Pei Zhou, Zewen Wu, Siyan Dong, **Difan Zou**, Youyi Zheng, Yanchao Yang\
 International Conference on Learning Representations (**ICLR**), 2025 \
@@ -30,39 +40,39 @@ Hanlin Zhang, Depen Morwani, Nikhil Vyas, Jingfeng Wu, **Difan Zou**, Udaya Ghai
 International Conference on Learning Representations (**ICLR**), 2025 \
 \[[Arxiv](https://arxiv.org/pdf/2410.21676)\]
 
+* Per-Example Gradient Regularization Improves Learning Signals from Noisy Data\
+Xuran Meng, Yuan Cao, **Difan Zou**\
+Springer Machine Learning Journal, 2025\
+\[[Paper](https://link.springer.com/article/10.1007/s10994-024-06661-5)\]\[[Arxiv](https://arxiv.org/pdf/2303.17940.pdf)\]
+
 
 * Reverse Transition Kernel: A Flexible Framework to Accelerate Diffusion Inference\
 Xunpeng Huang, **Difan Zou**, Hanze Dong, Yi Zhang, Yi-An Ma, Tong Zhang\
 ICML Workshop on Structured Probabilistic Inference & Generative Modeling, 2024 (**Oral Presentation & Best Paper Award**)\
 Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2024 (**Spotlight**)\
-\[[Arxiv](https://arxiv.org/pdf/2405.16387)\]
+\[[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/ad62d81bb6edee5f9b33f5e0d34a7943-Paper-Conference.pdf)\]\[[Arxiv](https://arxiv.org/pdf/2405.16387)\]
 
 * Slight Corruption in Pre-training Data Makes Better Diffusion Models\
 Hao Chen, Yujin Han, Diganta Misra, Xiang Li, Kai Hu, **Difan Zou**, Masashi Sugiyama, Jindong Wang, Bhiksha Raj\
 Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2024 (**Spotlight**)\
-\[[Arxiv](https://arxiv.org/pdf/2405.20494)\]
+\[[Paper](https://openreview.net/pdf?id=VFpXYBqMSU)\]\[[Arxiv](https://arxiv.org/pdf/2405.20494)\]
 
 
 * How Transformers Utilize Multi-Head Attention in In-Context Learning? A Case Study on Sparse Linear Regression\
 Xingwu Chen\*, Lei Zhao\*, **Difan Zou**\
 Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2024 \
-\[[Arxiv](https://arxiv.org/pdf/2408.04532)\]
+\[[Paper](https://openreview.net/pdf?id=fG8TukiXa5)\]\[[Arxiv](https://arxiv.org/pdf/2408.04532)\]
 
 * The Implicit Bias of Adam on Separable Data\
 Chenyang Zhang, **Difan Zou**, Yuan Cao\
 Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2024 \
-\[[Arxiv](https://arxiv.org/pdf/2406.10650)\]
+\[[Paper](https://openreview.net/attachment?id=xRQxan3WkM&name=pdf)\]\[[Arxiv](https://arxiv.org/pdf/2406.10650)\]
 
 * An In-depth Investigation of Sparse Rate Reduction in Transformer-like Models\
 Yunzhe Hu, **Difan Zou**, Dong Xu\
 Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2024 \
-\[[Arxiv](./)\]
+\[[Paper](https://openreview.net/attachment?id=CAC74VuMWX&name=pdf)\]\[[Arxiv](https://arxiv.org/pdf/2411.17182)\]
 
-
-* Per-Example Gradient Regularization Improves Learning Signals from Noisy Data\
-Xuran Meng, Yuan Cao, **Difan Zou**\
-Springer Machine Learning Journal, 2024 (accepted)\
-\[[Arxiv](https://arxiv.org/pdf/2303.17940.pdf)\]
 
 * Faster Sampling without Isoperimetry via Diffusion-based Monte Carlo\
 Xunpeng Huang, **Difan Zou**, Hanze Dong, Yian Ma, and Tong Zhang\
@@ -263,6 +273,10 @@ International Conference on Machine Learning (**ICML**), 2018\
 
 ## Preprint
 
+* On the Robustness of Transformers against Context Hijacking for Linear Classification\
+Tianle Li\*, Chenyang Zhang\*, Xingwu Chen, Yuan Cao, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2502.15609)\]
+
 * Towards Understanding Fine-Tuning Mechanisms of LLMs via Circuit Analysis\
 Xu Wang, Yan Hu, Wenyu Du, Reynold Cheng, Benyou Wang, **Difan Zou**\
 \[[Arxiv](https://arxiv.org/pdf/2502.11812)\]
@@ -272,20 +286,17 @@ Yunzhe Hu, **Difan Zou**, Dong Xu\
 \[[Arxiv](https://arxiv.org/pdf/2502.11646)\]
 
 * Can Diffusion Models Learn Hidden Inter-Feature Rules Behind Images?\
-Yujin Han, Andi Han, Wei Huang, Chaochao Lu, **Difan Zou**\
+Yujin Han\*, Andi Han\*, Wei Huang, Chaochao Lu, **Difan Zou**\
 \[[Arxiv](https://arxiv.org/pdf/2502.04725)\]
 
 * Masked Autoencoders Are Effective Tokenizers for Diffusion Models\
-Hao Chen, Yujin Han, Fangyi Chen, Xiang Li, Yidong Wang, Jindong Wang, Ze Wang, Zicheng Liu, **Difan Zou**, Bhiksha Raj\
+Hao Chen\*, Yujin Han\*, Fangyi Chen, Xiang Li, Yidong Wang, Jindong Wang, Ze Wang, Zicheng Liu, **Difan Zou**, Bhiksha Raj\
 \[[Arxiv](https://arxiv.org/pdf/2502.03444)\]
 
 * SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution\
 Chengxing Xie, Bowen Li, Chang Gao, He Du, Wai Lam, **Difan Zou**, Kai Chen\
 \[[Arxiv](https://arxiv.org/pdf/2501.05040)\]
 
-* Parallelized Autoregressive Visual Generation\
-Yuqing Wang, Shuhuai Ren, Zhijie Lin, Yujin Han, Haoyuan Guo, Zhenheng Yang, **Difan Zou**, Jiashi Feng, Xihui Liu\
-\[[Arxiv](https://arxiv.org/pdf/2412.15119)\]
 
 * Initialization Matters: On the Benign Overfitting of Two-Layer ReLU CNN with Fully Trainable Layers\
 Shuning Shang, Xuran Meng, Yuan Cao, **Difan Zou**\
