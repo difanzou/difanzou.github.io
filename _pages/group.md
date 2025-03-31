@@ -15,12 +15,12 @@ author_profile: true
 - Junwei Su (CS, co-advised with Prof. Chuan Wu, 2021 - present)
 
 ## Research Interns
-- Zhi Wang (2024, USTC)
+- Zhi Wang (2024, USTC -> UCSD)
 - Chengxing Xie (2024, Xidian University -> Tsinghua University)
 - Tunyu Zhang (2024, USTC -> Rutgers University)
 - Lei Zhao (2024, USTC -> UPenn)
-- Hanyu Wang (2024, USTC -> PSU)
-- Shuning Shang (2024, Zhejiang University)
-- Miao Lu (2023, USTC -> Stanford)
+- Hanyu Wang (2024, USTC -> Penn State University)
+- Shuning Shang (2024, Zhejiang University -> Princeton University)
+- Miao Lu (2023, USTC -> Stanford University)
 - Beining Wu (2023, USTC -> University of Chicago)
 
