@@ -9,6 +9,21 @@ author_profile: true
 
 ## Publications
 
+* Towards Understanding Fine-Tuning Mechanisms of LLMs via Circuit Analysis\
+Xu Wang, Yan Hu, Wenyu Du, Reynold Cheng, Benyou Wang, **Difan Zou**\
+International Conference on Machine Learning (**ICML**), 2025\
+\[[Arxiv](https://arxiv.org/pdf/2502.11812)\]
+
+* Can Diffusion Models Learn Hidden Inter-Feature Rules Behind Images?\
+Yujin Han\*, Andi Han\*, Wei Huang, Chaochao Lu, **Difan Zou**\
+International Conference on Machine Learning (**ICML**), 2025\
+\[[Arxiv](https://arxiv.org/pdf/2502.04725)\]
+
+* Masked Autoencoders Are Effective Tokenizers for Diffusion Models\
+Hao Chen\*, Yujin Han\*, Fangyi Chen, Xiang Li, Yidong Wang, Jindong Wang, Ze Wang, Zicheng Liu, **Difan Zou**, Bhiksha Raj\
+International Conference on Machine Learning (**ICML**), 2025 (**Spotlight**)\
+\[[Arxiv](https://arxiv.org/pdf/2502.03444)\]
+
 * STGAN: Spatial-temporal Graph Autoregression Network for Pavement Distress Deterioration Prediction\
 Shilin Tong, Difei Wu, Xiaona Liu, Le Zheng, Yuchuan Du, **Difan Zou**\
 IEEE Transactions on Intelligent Transportation Systems (TITS), 2025\
@@ -277,21 +292,11 @@ International Conference on Machine Learning (**ICML**), 2018\
 Tianle Li\*, Chenyang Zhang\*, Xingwu Chen, Yuan Cao, **Difan Zou**\
 \[[Arxiv](https://arxiv.org/pdf/2502.15609)\]
 
-* Towards Understanding Fine-Tuning Mechanisms of LLMs via Circuit Analysis\
-Xu Wang, Yan Hu, Wenyu Du, Reynold Cheng, Benyou Wang, **Difan Zou**\
-\[[Arxiv](https://arxiv.org/pdf/2502.11812)\]
 
 * Hyperspherical Energy Transformer with Recurrent Depth\
 Yunzhe Hu, **Difan Zou**, Dong Xu\
 \[[Arxiv](https://arxiv.org/pdf/2502.11646)\]
 
-* Can Diffusion Models Learn Hidden Inter-Feature Rules Behind Images?\
-Yujin Han\*, Andi Han\*, Wei Huang, Chaochao Lu, **Difan Zou**\
-\[[Arxiv](https://arxiv.org/pdf/2502.04725)\]
-
-* Masked Autoencoders Are Effective Tokenizers for Diffusion Models\
-Hao Chen\*, Yujin Han\*, Fangyi Chen, Xiang Li, Yidong Wang, Jindong Wang, Ze Wang, Zicheng Liu, **Difan Zou**, Bhiksha Raj\
-\[[Arxiv](https://arxiv.org/pdf/2502.03444)\]
 
 * SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution\
 Chengxing Xie, Bowen Li, Chang Gao, He Du, Wai Lam, **Difan Zou**, Kai Chen\
