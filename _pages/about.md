@@ -24,6 +24,8 @@ News
 
 <!-- * \[2024-06\] Receiving a UGC ECS funding on diffusion-based Monte Carlo. -->
 
+* \[2025-05\] Three paper are accepted to ICML 2025.
+
 * \[2025-03\] One paper is accepted to CVPR 2025.
 
 * \[2025-01\] Our school is lanching summer research program (see [our website](https://www.cs.hku.hk/rintern/) with full funding support. Please feel free to apply and send me email if you want to work with me.
