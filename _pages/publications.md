@@ -288,6 +288,23 @@ International Conference on Machine Learning (**ICML**), 2018\
 
 ## Preprint
 
+* Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation\
+Yi Zhang, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2505.22391)\]
+
+* Almost Linear Convergence under Minimal Score Assumptions: Quantized Transition Diffusion\
+Xunpeng Huang, Yingyu Lin, Nikki Lijing Kuang, Hanze Dong, **Difan Zou**, Yian Ma, Tong Zhang\
+\[[Arxiv](https://arxiv.org/pdf/2505.21892)\]
+
+* Capturing Conditional Dependence via Auto-regressive Diffusion Models\
+Xunpeng Huang, Yujin Han, **Difan Zou**, Yian Ma, Tong Zhang\
+\[[Arxiv](https://arxiv.org/pdf/2504.21314?)\]
+
+* Gradient Descent Robustly Learns the Intrinsic Dimension of Data in Training Convolutional Neural Networks\
+Chenyang Zhang, Peifeng Gao, **Difan Zou**, Yuan Cao\
+\[[Arxiv](https://arxiv.org/pdf/2504.08628)\]
+
+
 * On the Robustness of Transformers against Context Hijacking for Linear Classification\
 Tianle Li\*, Chenyang Zhang\*, Xingwu Chen, Yuan Cao, **Difan Zou**\
 \[[Arxiv](https://arxiv.org/pdf/2502.15609)\]
