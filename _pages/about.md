@@ -24,6 +24,8 @@ News
 
 <!-- * \[2024-06\] Receiving a UGC ECS funding on diffusion-based Monte Carlo. -->
 
+* \[2025-05\] One paper is accepted to ACL 2025.
+
 * \[2025-05\] Three paper are accepted to ICML 2025.
 
 * \[2025-03\] One paper is accepted to CVPR 2025.

@@ -9,6 +9,11 @@ author_profile: true
 
 ## Publications
 
+* * SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution\
+Chengxing Xie, Bowen Li, Chang Gao, He Du, Wai Lam, **Difan Zou**, Kai Chen\
+Annual Meeting of the Association for Computational Linguistics (**ACL**), 2025\
+\[[Arxiv](https://arxiv.org/pdf/2501.05040)\]
+
 * Towards Understanding Fine-Tuning Mechanisms of LLMs via Circuit Analysis\
 Xu Wang, Yan Hu, Wenyu Du, Reynold Cheng, Benyou Wang, **Difan Zou**\
 International Conference on Machine Learning (**ICML**), 2025\
@@ -313,11 +318,6 @@ Tianle Li\*, Chenyang Zhang\*, Xingwu Chen, Yuan Cao, **Difan Zou**\
 * Hyperspherical Energy Transformer with Recurrent Depth\
 Yunzhe Hu, **Difan Zou**, Dong Xu\
 \[[Arxiv](https://arxiv.org/pdf/2502.11646)\]
-
-
-* SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution\
-Chengxing Xie, Bowen Li, Chang Gao, He Du, Wai Lam, **Difan Zou**, Kai Chen\
-\[[Arxiv](https://arxiv.org/pdf/2501.05040)\]
 
 
 * Initialization Matters: On the Benign Overfitting of Two-Layer ReLU CNN with Fully Trainable Layers\
