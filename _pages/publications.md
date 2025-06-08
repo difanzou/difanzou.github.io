@@ -9,7 +9,7 @@ author_profile: true
 
 ## Publications
 
-* * SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution\
+* SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution\
 Chengxing Xie, Bowen Li, Chang Gao, He Du, Wai Lam, **Difan Zou**, Kai Chen\
 Annual Meeting of the Association for Computational Linguistics (**ACL**), 2025\
 \[[Arxiv](https://arxiv.org/pdf/2501.05040)\]
