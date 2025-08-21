@@ -9,6 +9,11 @@ author_profile: true
 
 ## Publications
 
+* Model Unlearning via Sparse Autoencoder Subspace Guided Projections\
+Xu Wang, Zihao Li, Benyou Wang, Yan Hu, **Difan Zou**\
+Conference on Empirical Methods in Natural Language Processing (**EMNLP**),  2025\
+\[[Arxiv](https://arxiv.org/pdf/2505.24428)\]
+
 * SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution\
 Chengxing Xie, Bowen Li, Chang Gao, He Du, Wai Lam, **Difan Zou**, Kai Chen\
 Annual Meeting of the Association for Computational Linguistics (**ACL**), 2025\
@@ -292,6 +297,23 @@ International Conference on Machine Learning (**ICML**), 2018\
 \[[Paper](http://proceedings.mlr.press/v80/zou18a/zou18a.pdf)\] \[[ArXiv](https://arxiv.org/pdf/1802.04791.pdf)\]
 
 ## Preprint
+
+* Towards Theoretical Understanding of Transformer Test-Time Computing: Investigation on In-Context Linear Regression\
+Xingwu Chen, Miao Lu, Beining Wu, Difan Zou\
+\[[Arxiv](https://arxiv.org/pdf/2508.07571)\]
+
+* Self-Contradiction as Self-Improvement: Mitigating the Generation-Understanding Gap in MLLMs\
+Yujin Han, Hao Chen, Andi Han, Zhiheng Wang, Xinyu Lin, Yingya Zhang, Shiwei Zhang, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2507.16663)\]
+
+
+* A Random Matrix Analysis of In-context Memorization for Nonlinear Attention\
+Zhenyu Liao, Jiaqing Liu, TianQi Hou, **Difan Zou**, Zenan Ling\
+\[[Arxiv](https://arxiv.org/pdf/2506.18656)\]
+
+* On the Mechanism of Reasoning Pattern Selection in Reinforcement Learning for Language Models\
+Xingwu Chen, Tianle Li, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2506.04695)\]
 
 * Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation\
 Yi Zhang, **Difan Zou**\
