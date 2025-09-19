@@ -10,13 +10,13 @@ author_profile: true
 ## Publications
 
 * Model Unlearning via Sparse Autoencoder Subspace Guided Projections\
-Xu Wang, Zihao Li, Benyou Wang, Yan Hu, **Difan Zou**\
+Xu Wang, Zihao Li, Benyou Wang, Yan Hu, **Difan Zou\
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**),  2025\
 \[[Arxiv](https://arxiv.org/pdf/2505.24428)\]
 
 * SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution\
 Chengxing Xie, Bowen Li, Chang Gao, He Du, Wai Lam, **Difan Zou**, Kai Chen\
-Annual Meeting of the Association for Computational Linguistics (**ACL**), 2025\
+Annual Meeting of the Association for Computational Linguistics (**ACL** Findings) , 2025\
 \[[Arxiv](https://arxiv.org/pdf/2501.05040)\]
 
 * Towards Understanding Fine-Tuning Mechanisms of LLMs via Circuit Analysis\
