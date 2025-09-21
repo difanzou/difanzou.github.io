@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an assistant professor in the [Department of Computer Science](https://www.cs.hku.hk/) 
+I am an assistant professor in the [School of Computing and Data Science](https://www.cds.hku.hk/) 
 at [The University of Hong Kong](https://www.hku.hk/) and [The HKU Musketeers Foundation Institute of Data Science](https://datascience.hku.hk/). I am generally interested in machine learning, stochastic optimization, and graph learning, with a special focus on the theoretical/empirical understanding (or Physics) of deep learning (especially foundation models). I am also particularlly interested in devloping the AI/ML methods for practical problems in other area, such as signal processing, intelligent transportation, and math problems.
 
 
@@ -22,11 +22,18 @@ News
 
 * <span style="color:red"> Multiple openings for PhD, Postdoc, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group. For interested PhD candidates in 2025, please submit your application in https://i.cs.hku.hk/~gradappl/index.html and inform me via email. </span>
 
-<!-- * \[2024-06\] Receiving a UGC ECS funding on diffusion-based Monte Carlo. -->
+
+* \[2025-09\] Seven papers are accepted to NeurIPS 2025.
+
+* \[2025-09\] Welcoming new PhD students Yufei Zhao, Xuan Tang, Bingqing Jiang, Dechen Zhang, and Xu Wang.
+
+* \[2025-08\] One paper is accepted to EMNLP 2025.
+
+<!-- * \[2025-06\] Receiving a UGC GRF fund. -->
 
 * \[2025-05\] One paper is accepted to ACL 2025.
 
-* \[2025-05\] Three paper are accepted to ICML 2025.
+* \[2025-05\] Three papers are accepted to ICML 2025.
 
 * \[2025-03\] One paper is accepted to CVPR 2025.
 
@@ -35,6 +42,8 @@ News
 * \[2025-01\] Four papers are accepted to ICLR 2025.
 
 * \[2024-09\] Five papers are accepted to NeurIPS 2024.
+
+<!-- * \[2024-06\] Receiving a UGC ECS fund. -->
 
 * \[2024-06\] One paper on [faster diffusion inference/sampling](https://arxiv.org/pdf/2405.16387) is accepted to SPIGM @ ICML workshop as an oral presentation and wins the best paper award!
 

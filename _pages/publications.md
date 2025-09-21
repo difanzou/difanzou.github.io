@@ -9,8 +9,44 @@ author_profile: true
 
 ## Publications
 
+* Kernel Regression in Structured Non-IID Settings: Theory and Implications for Denoising Score Learning\
+Dechen Zhang, Zhenmei Shi, Yingyu Liang, **Difan Zou**\
+Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2025 \
+\[[Arxiv](.\)\]
+
+* How Does Label Noise Gradient Descent Improve Generalization in the Low SNR Regime?\
+Wei Huang, Andi Han, Yujin Song, Yilan Chen, Denny Wu, **Difan Zou**, Taiji Suzuki\
+Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2025 \
+\[[Arxiv](.\)\]
+
+* Understanding the Generalization of Stochastic Gradient Adam in Learning Neural Networks\
+Xuan Tang, Han Zhang, Yuan Cao, Difan Zou\
+Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2025 \
+\[[Arxiv](.\)\]
+
+* On the Robustness of Transformers against Context Hijacking for Linear Classification\
+Tianle Li\*, Chenyang Zhang\*, Xingwu Chen, Yuan Cao, **Difan Zou**\
+Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2025 \
+\[[Arxiv](https://arxiv.org/pdf/2502.15609)\]
+
+* Hierarchical Koopman Diffusion: Fast Generation with Interpretable Diffusion Trajectory\
+Hanru Bai, Weiyang Ding, **Difan Zou**\
+Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2025 \
+\[[Arxiv](.\)\]
+
+* F-Adapter: Frequency-Adaptive Parameter-Efficient Fine-Tuning in Scientific Machine Learning\
+Hangwei Zhang, Chun Kang, Yan Wang, **Difan Zou**\
+Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2025 \
+\[[Arxiv](.\)\]
+	
+* Speculative Jacobi-Denoising Decoding for Accelerating Autoregressive Text-to-image Generation\
+Yao Teng, Fu-Yun Wang, Xian Liu, Zhekai Chen, Han Shi, Yu Wang, Zhenguo Li, Weiyang Liu, **Difan Zou**, Xihui Liu\
+Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2025 \
+\[[Arxiv](.\)\]
+
+
 * Model Unlearning via Sparse Autoencoder Subspace Guided Projections\
-Xu Wang, Zihao Li, Benyou Wang, Yan Hu, **Difan Zou\
+Xu Wang, Zihao Li, Benyou Wang, Yan Hu, **Difan Zou**\
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**),  2025\
 \[[Arxiv](https://arxiv.org/pdf/2505.24428)\]
 
