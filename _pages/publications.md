@@ -340,7 +340,7 @@ Xingwu Chen, Miao Lu, Beining Wu, Difan Zou\
 
 * Self-Contradiction as Self-Improvement: Mitigating the Generation-Understanding Gap in MLLMs\
 Yujin Han, Hao Chen, Andi Han, Zhiheng Wang, Xinyu Lin, Yingya Zhang, Shiwei Zhang, **Difan Zou**\
-\[[Arxiv](https://arxiv.org/pdf/2507.16663)\]
+\[[Arxiv](https://arxiv.org/pdf/2507.16663)\]\[[Project](https://yujinhanml.github.io/self-improved-mllm/)\]
 
 
 * A Random Matrix Analysis of In-context Memorization for Nonlinear Attention\
