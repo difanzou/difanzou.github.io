@@ -20,7 +20,7 @@ Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2
 \[[Arxiv](.\)\]
 
 * Understanding the Generalization of Stochastic Gradient Adam in Learning Neural Networks\
-Xuan Tang, Han Zhang, Yuan Cao, Difan Zou\
+Xuan Tang, Han Zhang, Yuan Cao, **Difan Zou**\
 Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2025 \
 \[[Arxiv](.\)\]
 
@@ -37,7 +37,7 @@ Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2
 * F-Adapter: Frequency-Adaptive Parameter-Efficient Fine-Tuning in Scientific Machine Learning\
 Hangwei Zhang, Chun Kang, Yan Wang, **Difan Zou**\
 Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2025 \
-\[[Arxiv](.\)\]
+\[[Arxiv](https://arxiv.org/pdf/2509.23173)\]
 	
 * Speculative Jacobi-Denoising Decoding for Accelerating Autoregressive Text-to-image Generation\
 Yao Teng, Fu-Yun Wang, Xian Liu, Zhekai Chen, Han Shi, Yu Wang, Zhenguo Li, Weiyang Liu, **Difan Zou**, Xihui Liu\
@@ -334,8 +334,16 @@ International Conference on Machine Learning (**ICML**), 2018\
 
 ## Preprint
 
+* On the Complexity Theory of Masked Discrete Diffusion: From \mathrm{poly}(1/ε) to Nearly ε-Free\
+Xunpeng Huang, Yingyu Lin, Nishant Jain, Kaibo Wang, **Difan Zou**, Yian Ma, Tong Zhang\
+\[[Arxiv](https://arxiv.org/pdf/2509.21835)\]
+
+* On the Collapse Errors Induced by the Deterministic Sampler for Diffusion Models\
+Yi Zhang, Zhenyu Liao, Jingfeng Wu, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2508.16154)\]
+
 * Towards Theoretical Understanding of Transformer Test-Time Computing: Investigation on In-Context Linear Regression\
-Xingwu Chen, Miao Lu, Beining Wu, Difan Zou\
+Xingwu Chen, Miao Lu, Beining Wu, **Difan Zou**\
 \[[Arxiv](https://arxiv.org/pdf/2508.07571)\]
 
 * Self-Contradiction as Self-Improvement: Mitigating the Generation-Understanding Gap in MLLMs\
