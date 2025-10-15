@@ -22,7 +22,7 @@ Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2
 * Understanding the Generalization of Stochastic Gradient Adam in Learning Neural Networks\
 Xuan Tang, Han Zhang, Yuan Cao, **Difan Zou**\
 Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2025 \
-\[[Arxiv](.\)\]
+\[[Arxiv](https://arxiv.org/pdf/2510.11354)\]
 
 * On the Robustness of Transformers against Context Hijacking for Linear Classification\
 Tianle Li\*, Chenyang Zhang\*, Xingwu Chen, Yuan Cao, **Difan Zou**\
@@ -42,7 +42,7 @@ Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2
 * Speculative Jacobi-Denoising Decoding for Accelerating Autoregressive Text-to-image Generation\
 Yao Teng, Fu-Yun Wang, Xian Liu, Zhekai Chen, Han Shi, Yu Wang, Zhenguo Li, Weiyang Liu, **Difan Zou**, Xihui Liu\
 Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2025 \
-\[[Arxiv](.\)\]
+\[[Arxiv](https://arxiv.org/pdf/2510.08994)\]
 
 
 * Model Unlearning via Sparse Autoencoder Subspace Guided Projections\
@@ -53,22 +53,22 @@ Conference on Empirical Methods in Natural Language Processing (**EMNLP**),  202
 * SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution\
 Chengxing Xie, Bowen Li, Chang Gao, He Du, Wai Lam, **Difan Zou**, Kai Chen\
 Annual Meeting of the Association for Computational Linguistics (**ACL** Findings) , 2025\
-\[[Arxiv](https://arxiv.org/pdf/2501.05040)\]
+\[[Paper](https://aclanthology.org/2025.findings-acl.62.pdf)\]\[[Arxiv](https://arxiv.org/pdf/2501.05040)\]\[[Code](https://github.com/InternLM/SWE-Fixer)\]
 
 * Towards Understanding Fine-Tuning Mechanisms of LLMs via Circuit Analysis\
 Xu Wang, Yan Hu, Wenyu Du, Reynold Cheng, Benyou Wang, **Difan Zou**\
 International Conference on Machine Learning (**ICML**), 2025\
-\[[Arxiv](https://arxiv.org/pdf/2502.11812)\]
+\[[Paper](https://openreview.net/pdf?id=45EIiFd6Oa)\]\[[Arxiv](https://arxiv.org/pdf/2502.11812)\]\[[Code](https://github.com/Xu0615/FinetuneCircuits)\]
 
 * Can Diffusion Models Learn Hidden Inter-Feature Rules Behind Images?\
 Yujin Han\*, Andi Han\*, Wei Huang, Chaochao Lu, **Difan Zou**\
 International Conference on Machine Learning (**ICML**), 2025\
-\[[Arxiv](https://arxiv.org/pdf/2502.04725)\]
+\[[Paper](https://openreview.net/pdf/069dfc1e42a40b21762178bb3698973e69b8fdd9.pdf)\]\[[Arxiv](https://arxiv.org/pdf/2502.04725)\]
 
 * Masked Autoencoders Are Effective Tokenizers for Diffusion Models\
 Hao Chen\*, Yujin Han\*, Fangyi Chen, Xiang Li, Yidong Wang, Jindong Wang, Ze Wang, Zicheng Liu, **Difan Zou**, Bhiksha Raj\
 International Conference on Machine Learning (**ICML**), 2025 (**Spotlight**)\
-\[[Arxiv](https://arxiv.org/pdf/2502.03444)\]
+\[[Paper](https://openreview.net/pdf?id=dzwUOiBlQW)\]\[[Arxiv](https://arxiv.org/pdf/2502.03444)\]\[[Code](https://github.com/Hhhhhhao/continuous_tokenizer)\]
 
 * STGAN: Spatial-temporal Graph Autoregression Network for Pavement Distress Deterioration Prediction\
 Shilin Tong, Difei Wu, Xiaona Liu, Le Zheng, Yuchuan Du, **Difan Zou**\
@@ -78,28 +78,28 @@ IEEE Transactions on Intelligent Transportation Systems (TITS), 2025\
 * Parallelized Autoregressive Visual Generation\
 Yuqing Wang, Shuhuai Ren, Zhijie Lin, Yujin Han, Haoyuan Guo, Zhenheng Yang, **Difan Zou**, Jiashi Feng, Xihui Liu\
 Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025\
-\[[Arxiv](https://arxiv.org/pdf/2412.15119)\]
+\[[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Parallelized_Autoregressive_Visual_Generation_CVPR_2025_paper.pdf)\]\[[Arxiv](https://arxiv.org/pdf/2412.15119)\]\[[Project](https://yuqingwang1029.github.io/PAR-project)\]
 
 * Optimization-Biased Hypernetworks for Generalizable Policy Generation\
 Hanxiang Ren, Li Sun, Xulong Wang, Pei Zhou, Zewen Wu, Siyan Dong, **Difan Zou**, Youyi Zheng, Yanchao Yang\
 International Conference on Learning Representations (**ICLR**), 2025 \
-\[[Arxiv](.\)\]
+\[[Paper](https://openreview.net/pdf?id=CJWMXqAnAy)\]\[[Arxiv](.\)\]\[[Code](https://github.com/ReNginx/HyPoGen)\]
 
 * On the Feature Learning in Diffusion Models\
 Andi Han, Wei Huang, Yuan Cao, **Difan Zou**\
 International Conference on Learning Representations (**ICLR**), 2025 \
-\[[Arxiv](https://arxiv.org/pdf/2412.01021)\]
+\[[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/file/7f7fa581cc8a1970a4332920cdf87395-Paper-Conference.pdf)\]\[[Arxiv](https://arxiv.org/pdf/2412.01021)\]
 
 
 * Beyond Surface Structure: A Causal Assessment of LLMs' Comprehension Ability\
 Yujin Han, Lei Xu, Sirui Chen, **Difan Zou**, Chaochao Lu\
 International Conference on Learning Representations (**ICLR**), 2025 \
-\[[Arxiv](https://arxiv.org/pdf/2411.19456)\]
+\[[Paper](https://openreview.net/pdf?id=gsShHPxkUW)\]\[[Arxiv](https://arxiv.org/pdf/2411.19456)\]\[[Code](https://github.com/OpenCausaLab/ADCE)\]
 
 * How Does Critical Batch Size Scale in Pre-training?\
 Hanlin Zhang, Depen Morwani, Nikhil Vyas, Jingfeng Wu, **Difan Zou**, Udaya Ghai, Dean Foster, Sham Kakade\
 International Conference on Learning Representations (**ICLR**), 2025 \
-\[[Arxiv](https://arxiv.org/pdf/2410.21676)\]
+\[[Paper](https://openreview.net/pdf?id=JCiF03qnmi)\]\[[Arxiv](https://arxiv.org/pdf/2410.21676)\]\[[Code](https://github.com/hlzhang109/critical-batch-size)\]
 
 * Per-Example Gradient Regularization Improves Learning Signals from Noisy Data\
 Xuran Meng, Yuan Cao, **Difan Zou**\
