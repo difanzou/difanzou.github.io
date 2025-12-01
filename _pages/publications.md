@@ -9,15 +9,25 @@ author_profile: true
 
 ## Publications
 
+* Learning Diffusion Policy from Primitive Skills for Robot Manipulation\
+Zhihao Gu, Ming Yang, **Difan Zou**, Dong Xu\
+The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026\
+\[[Arxiv](./)\]
+
+* SIDE: Surrogate Conditional Data Extraction from Diffusion Models\
+Yunhao Chen, Shujie Wang, **Difan Zou**, Xingjun Ma \
+The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026\
+\[[Arxiv](https://arxiv.org/pdf/2410.02467)\]
+
 * Kernel Regression in Structured Non-IID Settings: Theory and Implications for Denoising Score Learning\
 Dechen Zhang, Zhenmei Shi, Yingyu Liang, **Difan Zou**\
 Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2025 \
-\[[Arxiv](.\)\]
+\[[Arxiv](https://www.arxiv.org/pdf/2510.15363)\]
 
 * How Does Label Noise Gradient Descent Improve Generalization in the Low SNR Regime?\
 Wei Huang, Andi Han, Yujin Song, Yilan Chen, Denny Wu, **Difan Zou**, Taiji Suzuki\
 Conference on Advances in Neural Information Processing Systems (**NeurIPS**), 2025 \
-\[[Arxiv](.\)\]
+\[[Arxiv](https://arxiv.org/pdf/2510.17526)\]
 
 * Understanding the Generalization of Stochastic Gradient Adam in Learning Neural Networks\
 Xuan Tang, Han Zhang, Yuan Cao, **Difan Zou**\
@@ -333,6 +343,19 @@ International Conference on Machine Learning (**ICML**), 2018\
 \[[Paper](http://proceedings.mlr.press/v80/zou18a/zou18a.pdf)\] \[[ArXiv](https://arxiv.org/pdf/1802.04791.pdf)\]
 
 ## Preprint
+
+* A Convergence Analysis of Adaptive Optimizers under Floating-point Quantization\
+Xuan Tang, Jichu Li, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2510.21314)\]
+
+* Learning under Quantization for High-Dimensional Linear Regression\
+Dechen Zhang, Junwei Su, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2510.18259)\]
+
+* Does higher interpretability imply better utility? A Pairwise Analysis on Sparse Autoencoders\
+Xu Wang, Yan Hu, Benyou Wang, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2510.03659)\]
+
 
 * On the Complexity Theory of Masked Discrete Diffusion: From \mathrm{poly}(1/ε) to Nearly ε-Free\
 Xunpeng Huang, Yingyu Lin, Nishant Jain, Kaibo Wang, **Difan Zou**, Yian Ma, Tong Zhang\

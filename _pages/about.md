@@ -22,6 +22,7 @@ News
 
 * <span style="color:red"> Multiple openings for PhD, Postdoc, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group. For interested PhD candidates in 2025, please submit your application in https://i.cs.hku.hk/~gradappl/index.html and inform me via email. </span>
 
+* \[2025-12\] Our paper on [Interpretabilty vs. Utility for SAEs in LLMs](https://arxiv.org/pdf/2510.03659) is accepted to NeurIPS 2025 Workshop on ResponsibleFM as an oral presentation and wins the outstanding paper award!
 
 * \[2025-11\] Two papers are accepted to AAAI 2026.
 
