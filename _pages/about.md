@@ -23,6 +23,8 @@ News
 * <span style="color:red"> Multiple openings for PhD, Postdoc, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group. For interested PhD candidates in 2025, please submit your application in https://i.cs.hku.hk/~gradappl/index.html and inform me via email. </span>
 
 
+* \[2025-11\] Two papers are accepted to AAAI 2026.
+
 * \[2025-09\] Seven papers are accepted to NeurIPS 2025.
 
 * \[2025-09\] Welcoming new PhD students Yufei Zhao, Xuan Tang, Bingqing Jiang, Dechen Zhang, and Xu Wang.
