@@ -9,10 +9,50 @@ author_profile: true
 
 ## Publications
 
+* Turning Internal Gap into Self-Improvement: Promoting the Generation-Understanding Unification in MLLMs\
+International Conference on Learning Representations (**ICLR**), 2026 \
+Yujin Han, Hao Chen, Andi Han, Zhiheng Wang, Xinyu Lin, Yingya Zhang, Shiwei Zhang, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2507.16663)\]\[[Project](https://yujinhanml.github.io/self-improved-mllm/)\]
+
+* Hyper-SET: Designing Transformers via Hyperspherical Energy Minimization\
+Yunzhe Hu, **Difan Zou**, Dong Xu\
+International Conference on Learning Representations (**ICLR**), 2026 \
+\[[Arxiv](https://arxiv.org/pdf/2502.11646)\]
+
+* Reshaping Reasoning in LLMs: A Theoretical Analysis of RL Training Dynamics through Pattern Selection\
+Xingwu Chen, Tianle Li, **Difan Zou**\
+International Conference on Learning Representations (**ICLR**), 2026 \
+\[[Arxiv](https://arxiv.org/pdf/2506.04695)\]
+
+* A Convergence Analysis of Adaptive Optimizers under Floating-point Quantization\
+Xuan Tang, Jichu Li, **Difan Zou**\
+International Conference on Learning Representations (**ICLR**), 2026 \
+\[[Arxiv](https://arxiv.org/pdf/2510.21314)\]
+
+* Learning under Quantization for High-Dimensional Linear Regression\
+Dechen Zhang, Junwei Su, **Difan Zou**\
+International Conference on Learning Representations (**ICLR**), 2026 \
+\[[Arxiv](https://arxiv.org/pdf/2510.18259)\]
+
+* Does higher interpretability imply better utility? A Pairwise Analysis on Sparse Autoencoders\
+Xu Wang, Yan Hu, Benyou Wang, **Difan Zou**\
+International Conference on Learning Representations (**ICLR**), 2026 \
+\[[Arxiv](https://arxiv.org/pdf/2510.03659)\]
+
+* Routing Matters in MoE: Scaling Diffusion Transformers with Explicit Routing Guidance\
+Yujie Wei, Shiwei Zhang, Hangjie Yuan, Yujin Han, Zhekai Chen, Jiayu Wang, **Difan Zou**, Xihui Liu, Yingya Zhang, Yu Liu, Hongming Shan\
+International Conference on Learning Representations (**ICLR**), 2026 \
+\[[Arxiv](https://arxiv.org/pdf/2510.24711)\]
+
+* Improving Implicit Regularization of SGD with Preconditioning for Least Square Problems\
+Junwei Su,  Chuan Wu, Le Zheng, **Difan Zou**\
+SIAM Journal on Mathematics of Data Science (Accepted)
+\[[Arxiv](https://arxiv.org/pdf/2403.08585.pdf)\]
+
 * Learning Diffusion Policy from Primitive Skills for Robot Manipulation\
 Zhihao Gu, Ming Yang, **Difan Zou**, Dong Xu\
 The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026\
-\[[Arxiv](./)\]
+\[[Arxiv](https://arxiv.org/pdf/2601.01948)\]
 
 * SIDE: Surrogate Conditional Data Extraction from Diffusion Models\
 Yunhao Chen, Shujie Wang, **Difan Zou**, Xingjun Ma \
@@ -344,18 +384,6 @@ International Conference on Machine Learning (**ICML**), 2018\
 
 ## Preprint
 
-* A Convergence Analysis of Adaptive Optimizers under Floating-point Quantization\
-Xuan Tang, Jichu Li, **Difan Zou**\
-\[[Arxiv](https://arxiv.org/pdf/2510.21314)\]
-
-* Learning under Quantization for High-Dimensional Linear Regression\
-Dechen Zhang, Junwei Su, **Difan Zou**\
-\[[Arxiv](https://arxiv.org/pdf/2510.18259)\]
-
-* Does higher interpretability imply better utility? A Pairwise Analysis on Sparse Autoencoders\
-Xu Wang, Yan Hu, Benyou Wang, **Difan Zou**\
-\[[Arxiv](https://arxiv.org/pdf/2510.03659)\]
-
 
 * On the Complexity Theory of Masked Discrete Diffusion: From \mathrm{poly}(1/ε) to Nearly ε-Free\
 Xunpeng Huang, Yingyu Lin, Nishant Jain, Kaibo Wang, **Difan Zou**, Yian Ma, Tong Zhang\
@@ -369,18 +397,11 @@ Yi Zhang, Zhenyu Liao, Jingfeng Wu, **Difan Zou**\
 Xingwu Chen, Miao Lu, Beining Wu, **Difan Zou**\
 \[[Arxiv](https://arxiv.org/pdf/2508.07571)\]
 
-* Self-Contradiction as Self-Improvement: Mitigating the Generation-Understanding Gap in MLLMs\
-Yujin Han, Hao Chen, Andi Han, Zhiheng Wang, Xinyu Lin, Yingya Zhang, Shiwei Zhang, **Difan Zou**\
-\[[Arxiv](https://arxiv.org/pdf/2507.16663)\]\[[Project](https://yujinhanml.github.io/self-improved-mllm/)\]
-
 
 * A Random Matrix Analysis of In-context Memorization for Nonlinear Attention\
 Zhenyu Liao, Jiaqing Liu, TianQi Hou, **Difan Zou**, Zenan Ling\
 \[[Arxiv](https://arxiv.org/pdf/2506.18656)\]
 
-* On the Mechanism of Reasoning Pattern Selection in Reinforcement Learning for Language Models\
-Xingwu Chen, Tianle Li, **Difan Zou**\
-\[[Arxiv](https://arxiv.org/pdf/2506.04695)\]
 
 * Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation\
 Yi Zhang, **Difan Zou**\
@@ -404,18 +425,10 @@ Tianle Li\*, Chenyang Zhang\*, Xingwu Chen, Yuan Cao, **Difan Zou**\
 \[[Arxiv](https://arxiv.org/pdf/2502.15609)\]
 
 
-* Hyperspherical Energy Transformer with Recurrent Depth\
-Yunzhe Hu, **Difan Zou**, Dong Xu\
-\[[Arxiv](https://arxiv.org/pdf/2502.11646)\]
-
-
 * Initialization Matters: On the Benign Overfitting of Two-Layer ReLU CNN with Fully Trainable Layers\
 Shuning Shang, Xuran Meng, Yuan Cao, **Difan Zou**\
 \[[Arxiv](https://arxiv.org/pdf/2410.19139)\]
 
-* Towards a Theoretical Understanding of Memorization in Diffusion Models\
-Yunhao Chen, Xingjun Ma, **Difan Zou**, Yu-Gang Jiang\
-\[[Arxiv](https://arxiv.org/pdf/2410.02467)\]
 
 * Self-Control of LLM Behaviors by Compressing Suffix Gradient into Prefix Controller\
 Min Cai, Yuchen Zhang, Shichang Zhang, Fan Yin, **Difan Zou**, Yisong Yue, Ziniu Hu\
@@ -433,21 +446,15 @@ Yifan Hao, Yong Lin, **Difan Zou**, and Tong Zhang\
 \[[Arxiv](https://arxiv.org/pdf/2403.17592.pdf)\]
 
 
-* Improving Implicit Regularization of SGD with Preconditioning for Least Square Problems\
-Junwei Su, **Difan Zou**, and Chuan Wu\
-\[[Arxiv](https://arxiv.org/pdf/2403.08585.pdf)\]
-
 
 * An Improved Analysis of Langevin Algorithms with Prior Diffusion for Non-Log-Concave Sampling\
 Xunpeng Huang, Hanze Dong, **Difan Zou**,  and Tong Zhang\
 \[[Arxiv](https://arxiv.org/pdf/2403.06183.pdf)\]
 
 
-
 * Less is More: On the Feature Redundancy of Pertrained Models When Transferring to Few-Shot Tasks\
 Xu Luo, **Difan Zou**, Lianli Gao, Zenglin Xu, Jingkuan Song\
 \[[Arxiv](https://arxiv.org/pdf/2310.03843.pdf)\]
-
 
 
 * Epidemic Model Guided Machine Learning for COVID-19 Forecasts in the United States\
