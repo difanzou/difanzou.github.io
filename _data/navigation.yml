@@ -2,7 +2,7 @@
 main:
 
   - title: "Home"
-    url: /about/
+    url: /
     
   - title: "Group"
     url: /group/

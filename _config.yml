@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Difan Zou"
   avatar           : "profile.png"
-  bio              : "Assistant Professor, Department of Computer Science, HKU"
+  bio              : "Machine learning, optimization, and graph learning"
   location         : "Hong Kong"
-  employer         :
+  employer         : "School of Computing and Data Science, HKU"
   googlescholar    : "https://scholar.google.com/citations?user=Cp4fcTQAAAAJ&hl=en"
   email            : "dzou@cs.hku.hk"
   uri              :
@@ -142,6 +142,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
@@ -255,7 +256,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
