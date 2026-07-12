@@ -3,83 +3,31 @@ permalink: /
 excerpt: "About me"
 title: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
+I am an assistant professor in the [School of Computing and Data Science](https://www.cds.hku.hk/) at [The University of Hong Kong](https://www.hku.hk/) and [The HKU Musketeers Foundation Institute of Data Science](https://datascience.hku.hk/). I am generally interested in machine learning, stochastic optimization, and graph learning, with a special focus on the theoretical and empirical understanding of deep learning, especially foundation models. I am also interested in developing AI/ML methods for practical problems in areas such as signal processing, intelligent transportation, and mathematics.
 
-I am an assistant professor in the [School of Computing and Data Science](https://www.cds.hku.hk/) 
-at [The University of Hong Kong](https://www.hku.hk/) and [The HKU Musketeers Foundation Institute of Data Science](https://datascience.hku.hk/). I am generally interested in machine learning, stochastic optimization, and graph learning, with a special focus on the theoretical/empirical understanding (or Physics) of deep learning (especially foundation models). I am also particularlly interested in devloping the AI/ML methods for practical problems in other area, such as signal processing, intelligent transportation, and math problems.
+Previously, I obtained my Ph.D. in the Computer Science department at the University of California, Los Angeles (UCLA), supervised by [Prof. Quanquan Gu](http://web.cs.ucla.edu/~qgu/). I obtained my master's degree in electrical engineering and bachelor's degree in applied physics, both from the University of Science and Technology of China (USTC).
 
-
-
-Previously, I obtained my Ph.D. in the Computer Science department at the University of California, Los Angeles (UCLA), supervised by [Prof. Quanquan Gu](http://web.cs.ucla.edu/~qgu/).  I obtained my master degree in electrical engineering and bachelor degree in applied physics, both in Unversity of Science and Technology of China (USTC). 
-
+<p class="home-openings"><strong>Open positions.</strong> I welcome enquiries from prospective PhD students, postdoctoral researchers, and research assistants. Please email a CV and a brief description of your research interests.</p>
 
 News
-------
+----
 
-* <span style="color:red"> Multiple openings for PhD, Postdoc, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group. For interested PhD candidates in 2025, please submit your application in https://i.cs.hku.hk/~gradappl/index.html and inform me via email. </span>
+<ul class="news-list">
+  <li><time datetime="2026-05">May 2026</time><p>One paper is accepted to ACL 2026.</p></li>
+  <li><time datetime="2026-04">April 2026</time><p>Five papers are accepted to ICML 2026.</p></li>
+  <li><time datetime="2026-04">April 2026</time><p>One paper is accepted to ACL 2026.</p></li>
+  <li><time datetime="2026-01">January 2026</time><p>Seven papers are accepted to ICLR 2026.</p></li>
+  <li><time datetime="2025-12">December 2025</time><p>Our paper on <a href="https://arxiv.org/pdf/2510.03659">Interpretability vs. Utility for SAEs in LLMs</a> was accepted to the NeurIPS 2025 ResponsibleFM Workshop as an oral presentation and received an Outstanding Paper Award.</p></li>
+  <li><time datetime="2025-11">November 2025</time><p>Two papers are accepted to AAAI 2026.</p></li>
+  <li><time datetime="2025-09">September 2025</time><p>Seven papers are accepted to NeurIPS 2025.</p></li>
+  <li><time datetime="2025-09">September 2025</time><p>Welcoming new PhD students Yufei Zhao, Xuan Tang, Bingqing Jiang, Dechen Zhang, and Xu Wang.</p></li>
+  <li><time datetime="2025-08">August 2025</time><p>One paper is accepted to EMNLP 2025.</p></li>
+  <li><time datetime="2025-05">May 2025</time><p>One paper is accepted to ACL 2025.</p></li>
+</ul>
 
-* \[2026-05\] One paper is accepted to ACL 2026.
-
-* \[2026-04\] Five papers are accepted to ICML 2026.
-
-* \[2026-04\] One paper is accepted to ACL 2026.
-
-* \[2026-01\] Seven papers are accepted to ICLR 2026.
-
-* \[2025-12\] Our paper on [Interpretabilty vs. Utility for SAEs in LLMs](https://arxiv.org/pdf/2510.03659) is accepted to NeurIPS 2025 Workshop on ResponsibleFM as an oral presentation and wins the outstanding paper award!
-
-* \[2025-11\] Two papers are accepted to AAAI 2026.
-
-* \[2025-09\] Seven papers are accepted to NeurIPS 2025.
-
-* \[2025-09\] Welcoming new PhD students Yufei Zhao, Xuan Tang, Bingqing Jiang, Dechen Zhang, and Xu Wang.
-
-* \[2025-08\] One paper is accepted to EMNLP 2025.
-
-<!-- * \[2025-06\] Receiving a UGC GRF fund. -->
-
-* \[2025-05\] One paper is accepted to ACL 2025.
-
-* \[2025-05\] Three papers are accepted to ICML 2025.
-
-* \[2025-03\] One paper is accepted to CVPR 2025.
-
-* \[2025-01\] Our school is lanching summer research program (see [our website](https://www.cs.hku.hk/rintern/) with full funding support. Please feel free to apply and send me email if you want to work with me.
-
-* \[2025-01\] Four papers are accepted to ICLR 2025.
-
-* \[2024-09\] Five papers are accepted to NeurIPS 2024.
-
-<!-- * \[2024-06\] Receiving a UGC ECS fund. -->
-
-* \[2024-06\] One paper on [faster diffusion inference/sampling](https://arxiv.org/pdf/2405.16387) is accepted to SPIGM @ ICML workshop as an oral presentation and wins the best paper award!
-
-* \[2024-05\] One paper on [faster non-log-concave sampling](https://arxiv.org/pdf/2401.06325.pdf) is accepted to COLT 2024.
-
-* \[2024-05\] Four papers on [handling spurious correlation via better group classifier](./), [transformer expressive power with varying layers](./), [faster rate of stochastic proximal sampler](./), and [benign overfitting for XOR data](./) are accepted to ICML 2024.
-
-* \[2024-04\] One paper on [continual learning for GNN](./) is accepted to CoLLAs 2024.
-
-<!-- * \[2024-04\] Receiving a Guangdong NSF funding on theoretical foundation of diffusion models. -->
-
-
-* \[2024-01\] Three papers on [SGD with large learning rate](https://arxiv.org/pdf/2310.17074.pdf), [scalable training of dynamic GNN](https://difanzou.github.io/), and [finite sample in-context learning](https://arxiv.org/pdf/2310.08391.pdf) are accepted to ICLR 2024.
-
-<!-- * \[2023-08\] Receiving an NSFC funding on the theoretical foundation of SGD in deep learning. -->
-
-* \[2023-05\] Our [paper](https://arxiv.org/pdf/2306.11680.pdf) on the implicit bias of batch normalization is accepted to COLT 2023.
-
-* \[2023-03\] Two manuscripts on explaning the advantages of [Mixup](https://arxiv.org/pdf/2303.08433.pdf) and [Gradient Regularization](https://arxiv.org/pdf/2303.17940.pdf) in training neural networks are online.
-
-* \[2023-03\] I will serve as the Area Chair in NeurIPS 2023.
-
-* \[2023-01\] Our [paper](https://openreview.net/pdf?id=iUYpN14qjTF) on the generalization separation between Adam and GD has been accepted by ICLR 2023.
-
-* \[2022-09\] Two papers accepted by NeurIPS 2022. The [first paper](https://openreview.net/pdf?id=f966GJIEF9) studies the generalization of multi-pass SGD for over-parameterized least squres; the [second paper](https://openreview.net/pdf?id=3y80RPgHL7s) demonstrates the power and limitation of pretraining-finetunning for linear regression with distribution shift.
-
-
-* \[2022-08\] Dr Difan Zou just joined HKU CS as an assistant professor.
+<p class="news-more"><a href="{{ '/news/' | relative_url }}">View all news &rarr;</a></p>

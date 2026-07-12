@@ -4,8 +4,8 @@
    ======================================================================== */
 
 :root {
-  --paper: #f7f6f0;
-  --paper-deep: #eceae1;
+  --paper: #fff;
+  --paper-deep: #fff;
   --ink: #13242a;
   --ink-soft: #4c5a5c;
   --rule: #c9cfca;
@@ -215,14 +215,6 @@ a:focus {
 .page__content a {
   text-decoration-thickness: 1px;
   text-underline-offset: 0.16em;
-}
-
-.page--home {
-  float: none !important;
-  width: 100% !important;
-  max-width: none;
-  margin: 0 !important;
-  padding: 0 !important;
 }
 
 .page--home .page__inner-wrap {
@@ -498,6 +490,23 @@ a:focus {
   }
 }
 
+.home-openings {
+  max-width: 43rem;
+  margin: 1.6rem 0 3.4rem !important;
+  color: var(--ink-soft);
+  font-size: 1.05rem !important;
+  line-height: 1.5;
+}
+
+.news-more {
+  margin: 1.25rem 0 0 !important;
+  font-family: var(--mono);
+  font-size: 0.66rem !important;
+  font-weight: 500;
+  letter-spacing: 0.045em;
+  text-transform: uppercase;
+}
+
 .home-editorial__bio {
   max-width: 42rem;
   padding: 4.5rem 0 0;
@@ -522,10 +531,10 @@ a:focus {
 }
 
 .splash .page__title {
-  margin: 0 0 2.6rem;
-  font-size: clamp(3rem, 7vw, 6.2rem);
+  margin: 0 0 2.1rem;
+  font-size: clamp(2.3rem, 4vw, 3.65rem);
   font-weight: 500;
-  line-height: 0.88;
+  line-height: 0.95;
 }
 
 .page-intro {
