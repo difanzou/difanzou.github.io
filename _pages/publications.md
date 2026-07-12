@@ -2,10 +2,13 @@
 layout: splash
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
+classes: page--publications
 ---
 
-\* indicates equal contribution.
+<p class="page-intro">Selected publications in machine learning theory, optimization, graph learning, and foundation models.</p>
+
+<p class="publication-key">\* indicates equal contribution.</p>
 
 ## Publications
 
@@ -528,7 +531,6 @@ IEEE Photonics Journal, 2016\
 Weihao Liu, **Difan Zou**, Zhengyuan Xu\
 OSA Journal of the Optical Society of America A, 2015\
 \[[Paper](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-32-3-486)\]
-
 
 
 

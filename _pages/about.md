@@ -22,6 +22,8 @@ News
 
 * <span style="color:red"> Multiple openings for PhD, Postdoc, and RA. Please drop me an email with your CV and transcript (optional) if you are interesed in joining my research group. For interested PhD candidates in 2025, please submit your application in https://i.cs.hku.hk/~gradappl/index.html and inform me via email. </span>
 
+* \[2026-05\] One paper is accepted to ACL 2026.
+
 * \[2026-04\] Five papers are accepted to ICML 2026.
 
 * \[2026-04\] One paper is accepted to ACL 2026.
