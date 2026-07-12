@@ -17,16 +17,23 @@
 }
 
 html {
-  background: var(--paper);
+  background: #fff !important;
   scroll-behavior: smooth;
 }
 
 body {
-  background: var(--paper);
+  background: #fff !important;
   color: var(--ink);
   font-family: var(--serif);
   font-size: 17px;
   line-height: 1.62;
+}
+
+#main,
+.page,
+.splash,
+.page__footer {
+  background-color: #fff !important;
 }
 
 ::selection {
@@ -75,7 +82,7 @@ a:focus {
 .masthead {
   position: sticky;
   top: 0;
-  background: var(--paper);
+  background: #fff !important;
   border-bottom: 1px solid var(--rule);
   box-shadow: none;
 }
@@ -531,10 +538,10 @@ a:focus {
 }
 
 .splash .page__title {
-  margin: 0 0 2.1rem;
-  font-size: clamp(2.3rem, 4vw, 3.65rem);
+  margin: 0 0 1.55rem;
+  font-size: clamp(1.95rem, 3.1vw, 2.8rem);
   font-weight: 500;
-  line-height: 0.95;
+  line-height: 1;
 }
 
 .page-intro {

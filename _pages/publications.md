@@ -10,8 +10,6 @@ classes: page--publications
 
 <p class="publication-key">\* indicates equal contribution.</p>
 
-## Publications
-
 * Turning Internal Gap into Self-Improvement: Promoting the Generation-Understanding Unification in MLLMs\
 International Conference on Learning Representations (**ICLR**), 2026 \
 Yujin Han, Hao Chen, Andi Han, Zhiheng Wang, Xinyu Lin, Yingya Zhang, Shiwei Zhang, **Difan Zou**\
@@ -531,7 +529,6 @@ IEEE Photonics Journal, 2016\
 Weihao Liu, **Difan Zou**, Zhengyuan Xu\
 OSA Journal of the Optical Society of America A, 2015\
 \[[Paper](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-32-3-486)\]
-
 
 
 
