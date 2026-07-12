@@ -12,8 +12,8 @@
   --rule-dark: #82908b;
   --accent: #075b5a;
   --accent-dark: #034544;
-  --serif: "Newsreader", Georgia, "Times New Roman", serif;
-  --mono: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
+  --serif: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  --mono: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 }
 
 html {
@@ -592,19 +592,12 @@ a:focus {
 }
 
 .people-section__heading {
-  display: flex;
-  gap: 0.8rem;
-  align-items: baseline;
-  margin-bottom: 1.1rem;
-
-  > p {
-    margin: 0;
-  }
+  margin-bottom: 0.85rem;
 
   h2 {
     margin: 0;
-    font-size: clamp(2rem, 4vw, 3rem);
-    line-height: 1;
+    font-size: clamp(1.3rem, 2.2vw, 1.7rem);
+    line-height: 1.1;
   }
 }
 

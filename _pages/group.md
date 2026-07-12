@@ -14,7 +14,6 @@ classes: page--group
 
 <section class="people-section" aria-labelledby="phd-students">
   <div class="people-section__heading">
-    <p>01</p>
     <h2 id="phd-students">PhD students</h2>
   </div>
   <ol class="people-list">
@@ -34,7 +33,6 @@ classes: page--group
 
 <section class="people-section" aria-labelledby="research-interns">
   <div class="people-section__heading">
-    <p>02</p>
     <h2 id="research-interns">Research interns</h2>
   </div>
   <ol class="people-list">
