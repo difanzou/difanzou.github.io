@@ -568,16 +568,16 @@ a:focus {
 
   > li {
     margin: 0;
-    padding: 1.3rem 0 1.5rem;
+    padding: 1.08rem 0 1.22rem;
     color: var(--ink-soft);
     border-bottom: 1px solid var(--rule);
-    font-size: 1rem;
-    line-height: 1.52;
+    font-size: 0.88rem;
+    line-height: 1.48;
   }
 
   > li::first-line {
     color: var(--ink);
-    font-size: 1.22rem;
+    font-size: 1.02rem;
     font-weight: 600;
   }
 }
