@@ -10,6 +10,41 @@ classes: page--publications
 
 <p class="publication-key">\* indicates equal contribution.</p>
 
+* Almost Linear Convergence under Minimal Score Assumptions: Quantized Transition Diffusion\
+Xunpeng Huang, Yingyu Lin, Lijing Kuang, Hanze Dong, **Difan Zou**, Yian Ma, Tong Zhang\
+Annual Conference on Learning Theory (**COLT**), 2026 \
+\[[Arxiv](https://arxiv.org/pdf/2505.21892)]
+
+* Towards Theoretical Understanding of Transformer Test-Time Computing: Investigation on In-Context Linear Regression\
+Xingwu Chen, Miao Lu, Beining Wu, **Difan Zou**\
+International Conference on Machine Learning (**ICML**), 2026 \
+\[[Arxiv](https://arxiv.org/pdf/2508.07571)\]
+
+* The Implicit Bias of Steepest Descent with Mini-batch Stochastic Gradient\
+Jichu Li, Xuan Tang, **Difan Zou**\
+International Conference on Machine Learning (**ICML**), 2026 \
+\[[Arxiv](https://arxiv.org/pdf/2602.11557)]
+
+* DLM-Scope: Mechanistic Interpretability of Diffusion Language Models via Sparse Autoencoders\
+Xu Wang, Bingqing Jiang, Yu Wan, Baosong Yang, Lingpeng Kong, **Difan Zou**\
+International Conference on Machine Learning (**ICML**), 2026 \
+\[[Arxiv](https://arxiv.org/pdf/2602.05859)]
+
+* Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation\
+Yi Zhang, Peng Wang, **Difan Zou**\
+International Conference on Machine Learning (**ICML**), 2026 \
+\[[Arxiv](https://arxiv.org/pdf/2505.22391)\]
+
+* Scaling Laws for Precision in High-Dimensional Linear Regression\
+Dechen Zhang, Xuan Tang, Yingyu Liang, **Difan Zou**\
+International Conference on Machine Learning (**ICML**), 2026 \
+\[[Arxiv](https://arxiv.org/pdf/2602.19241)]
+
+* Breaking Contextual Inertia: Reinforcement Learning with Single-Turn Anchors for Stable Multi-Turn Interaction\
+Xingwu Chen, Zhanqiu Zhang, Yiwen Guo, **Difan Zou**\
+Findings of the Association for Computational Linguistics (**ACL**), 2026 \
+\[[Arxiv](https://arxiv.org/pdf/2603.04783)]
+
 * Turning Internal Gap into Self-Improvement: Promoting the Generation-Understanding Unification in MLLMs\
 International Conference on Learning Representations (**ICLR**), 2026 \
 Yujin Han, Hao Chen, Andi Han, Zhiheng Wang, Xinyu Lin, Yingya Zhang, Shiwei Zhang, **Difan Zou**\
@@ -394,23 +429,10 @@ Xunpeng Huang, Yingyu Lin, Nishant Jain, Kaibo Wang, **Difan Zou**, Yian Ma, Ton
 Yi Zhang, Zhenyu Liao, Jingfeng Wu, **Difan Zou**\
 \[[Arxiv](https://arxiv.org/pdf/2508.16154)\]
 
-* Towards Theoretical Understanding of Transformer Test-Time Computing: Investigation on In-Context Linear Regression\
-Xingwu Chen, Miao Lu, Beining Wu, **Difan Zou**\
-\[[Arxiv](https://arxiv.org/pdf/2508.07571)\]
-
-
 * A Random Matrix Analysis of In-context Memorization for Nonlinear Attention\
 Zhenyu Liao, Jiaqing Liu, TianQi Hou, **Difan Zou**, Zenan Ling\
 \[[Arxiv](https://arxiv.org/pdf/2506.18656)\]
 
-
-* Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation\
-Yi Zhang, **Difan Zou**\
-\[[Arxiv](https://arxiv.org/pdf/2505.22391)\]
-
-* Almost Linear Convergence under Minimal Score Assumptions: Quantized Transition Diffusion\
-Xunpeng Huang, Yingyu Lin, Nikki Lijing Kuang, Hanze Dong, **Difan Zou**, Yian Ma, Tong Zhang\
-\[[Arxiv](https://arxiv.org/pdf/2505.21892)\]
 
 * Capturing Conditional Dependence via Auto-regressive Diffusion Models\
 Xunpeng Huang, Yujin Han, **Difan Zou**, Yian Ma, Tong Zhang\
@@ -529,9 +551,6 @@ IEEE Photonics Journal, 2016\
 Weihao Liu, **Difan Zou**, Zhengyuan Xu\
 OSA Journal of the Optical Society of America A, 2015\
 \[[Paper](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-32-3-486)\]
-
-
-
 
 
 
