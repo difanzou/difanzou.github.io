@@ -420,6 +420,50 @@ International Conference on Machine Learning (**ICML**), 2018\
 
 ## Preprint
 
+* FreeStyle: Free Control of Style-Content Dual-Reference Generation from Community LoRA Mining\
+Jinghong Lan, Wei Cheng, Yunuo Chen, Ziqi Ye, Peng Xing, Yixiao Fang, Rui Wang, Yufeng Yang, Xuanyang Zhang, Xianfang Zeng, **Difan Zou**, Gang Yu, Chi Zhang\
+\[[Arxiv](https://arxiv.org/pdf/2606.20506)\]
+
+* Toward Native Multimodal Modeling: A Roadmap\
+Siyu An, Junru Lu, Junnan Dong, Qiufeng Wang, Yinghui Li, Weizhi Fei, Zichao Yu, Zheng Yuan, Biao Liu, Haopeng Wang, Renzhao Liang, Yixuan Yang, Yunhang Shen, Bo Ke, Keyu Chen, Linhao Luo, **Difan Zou**, Xiao Huang, Di Yin, Ruizhi Qiao, Xing Sun\
+\[[Arxiv](https://arxiv.org/pdf/2605.25343)\]
+
+* MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation\
+Yujie Wei, Yujin Han, Zhekai Chen, Yongming Li, Kaixun Jiang, Zhihang Liu, Quanhao Li, Zhiwu Qing, Xiang Wang, Zhen Xing, Ruihang Chu, Lingyi Hong, Yefei He, Junjie Zhou, Junqiu Yu, Yang Shi, **Difan Zou**, Kai Zhu, Shiwei Zhang, Yingya Zhang, Yu Liu, Xihui Liu, Hongming Shan\
+\[[Arxiv](https://arxiv.org/pdf/2605.20183)\]
+
+* Relative Score Policy Optimization for Diffusion Language Models\
+Zichao Yu, Shengze Xu, Bingqing Jiang, Wenyi Zhang, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2605.10218)\]
+
+* Physics-Informed Neural PDE Solvers via Spatio-Temporal MeanFlow\
+Hanru Bai, Yuncheng Zhou, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2605.08915)\]
+
+* Structured Role-Aware Policy Optimization for Multimodal Reasoning\
+Bingqing Jiang, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2605.07274)\]
+
+* AesRM: Improving Video Aesthetics with Expert-Level Feedback\
+Yujin Han, Yujie Wei, Yefei He, Xinyu Liu, Tianle Li, Zichao Yu, Andi Han, Shiwei Zhang, Tingyu Weng, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2604.28078)\]
+
+* On the Memorization of Consistency Distillation for Diffusion Models\
+Bingqing Jiang, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2604.23552)\]
+
+* A Mechanism Study of Delayed Loss Spikes in Batch-Normalized Linear Models\
+Peifeng Gao, Wenyi Fang, Yang Zheng, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2604.16809)\]
+
+* ProFlow: Zero-Shot Physics-Consistent Sampling via Proximal Flow Guidance\
+Zichao Yu, Ming Li, Wenyi Zhang, **Difan Zou**, Weiguo Gao\
+\[[Arxiv](https://arxiv.org/pdf/2601.20227)\]
+
+* Differentiable Evolutionary Reinforcement Learning\
+Sitao Cheng, Tianle Li, Xuhan Huang, Xunjian Yin, **Difan Zou**\
+\[[Arxiv](https://arxiv.org/pdf/2512.13399)\]
+
 
 * On the Complexity Theory of Masked Discrete Diffusion: From \mathrm{poly}(1/ε) to Nearly ε-Free\
 Xunpeng Huang, Yingyu Lin, Nishant Jain, Kaibo Wang, **Difan Zou**, Yian Ma, Tong Zhang\
@@ -551,7 +595,6 @@ IEEE Photonics Journal, 2016\
 Weihao Liu, **Difan Zou**, Zhengyuan Xu\
 OSA Journal of the Optical Society of America A, 2015\
 \[[Paper](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-32-3-486)\]
-
 
 
 
