@@ -9,9 +9,9 @@ classes: page--news
 <p class="page-intro">Earlier news and milestones from the group.</p>
 
 <ol class="news-archive">
-  <li><time datetime="2026-05">May 2026</time><p>One paper is accepted to ACL 2026.</p></li>
+  <li><time datetime="2026-07">July 2026</time><p>Our paper on <a href="https://arxiv.org/pdf/2505.22391">Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation</a> was accepted to the ICML 2026 FoGen Workshop as an oral presentation and received the Best Paper Runner-Up Award.</p></li>
+  <li><time datetime="2026-05">May 2026</time><p>One paper is accepted to COLT 2026.</p></li>
   <li><time datetime="2026-04">April 2026</time><p>Five papers are accepted to ICML 2026.</p></li>
-  <li><time datetime="2026-04">April 2026</time><p>One paper is accepted to ACL 2026.</p></li>
   <li><time datetime="2026-01">January 2026</time><p>Seven papers are accepted to ICLR 2026.</p></li>
   <li><time datetime="2025-12">December 2025</time><p>Our paper on <a href="https://arxiv.org/pdf/2510.03659">Interpretability vs. Utility for SAEs in LLMs</a> was accepted to the NeurIPS 2025 ResponsibleFM Workshop as an oral presentation and received an Outstanding Paper Award.</p></li>
   <li><time datetime="2025-11">November 2025</time><p>Two papers are accepted to AAAI 2026.</p></li>
